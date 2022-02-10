@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 344dc1592913ede4dbef80cdcccc9c10, type: 3}
+  m_Name: Skin
+  m_EditorClassIdentifier: 
+  partHead: 0d0000000e000000
+  partBody: 0100000002000000090000000b0000000300000006000000
+  partArm: 04000000070000000a0000000c0000000500000008000000

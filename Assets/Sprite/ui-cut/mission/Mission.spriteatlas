@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Mission
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 29
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: fb717ddf48c436440ae6cc930709f10b, type: 3}
+    - {fileID: 2800000, guid: 63b51d0ab54d54b4bb27626cbcab8e9b, type: 3}
+    - {fileID: 2800000, guid: 0483d104153bcb147a8b4e66be7e29c6, type: 3}
+    - {fileID: 2800000, guid: 1cb24ce5d1a67384ba2d93f7c4ec3df8, type: 3}
+    - {fileID: 2800000, guid: 55d8cadd854dfdf47a4d55b4d0e6b87b, type: 3}
+    - {fileID: 2800000, guid: 2f3d3e9cfd30b4143b4b1be3502699b3, type: 3}
+    - {fileID: 2800000, guid: 5f1372f295ec04f418219b801bfb12ba, type: 3}
+    - {fileID: 2800000, guid: 703e2ad4761aad640a9b6330855d38ff, type: 3}
+    - {fileID: 2800000, guid: a62d93f46b7293842a6ed8894cdee71d, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5f1372f295ec04f418219b801bfb12ba, type: 3}
+  - {fileID: 21300000, guid: 0483d104153bcb147a8b4e66be7e29c6, type: 3}
+  - {fileID: 21300000, guid: 703e2ad4761aad640a9b6330855d38ff, type: 3}
+  - {fileID: 21300000, guid: a62d93f46b7293842a6ed8894cdee71d, type: 3}
+  - {fileID: 21300000, guid: 1cb24ce5d1a67384ba2d93f7c4ec3df8, type: 3}
+  - {fileID: 21300000, guid: 63b51d0ab54d54b4bb27626cbcab8e9b, type: 3}
+  - {fileID: 21300000, guid: 2f3d3e9cfd30b4143b4b1be3502699b3, type: 3}
+  - {fileID: 21300000, guid: 55d8cadd854dfdf47a4d55b4d0e6b87b, type: 3}
+  - {fileID: 21300000, guid: fb717ddf48c436440ae6cc930709f10b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - bt3
+  - 3
+  - time-line
+  - time-line2
+  - bg1
+  - 2
+  - bt2
+  - bt1
+  - 1
+  m_Tag: Mission
+  m_IsVariant: 0

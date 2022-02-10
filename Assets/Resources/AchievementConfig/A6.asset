@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32196d4bdc6b7084ba07adfd7d8be793, type: 3}
+  m_Name: A6
+  m_EditorClassIdentifier: 
+  ID: 6
+  achievementType: 1
+  AchievementName: Warrior
+  DescribeBefore: Kill
+  DescribeAfter: Enemy
+  stringValue: 10 - 30 - 50 - 80 - 120 - 200 - 300
+  strinReward: 3 - 5 - 7 - 9 - 15 - 30 - 50
+  listTarget_Reward:
+  - IndexRoman: I
+    target: 10
+    typeReward: 2
+    reward: 3
+  - IndexRoman: II
+    target: 30
+    typeReward: 2
+    reward: 5
+  - IndexRoman: III
+    target: 50
+    typeReward: 2
+    reward: 7
+  - IndexRoman: IV
+    target: 80
+    typeReward: 2
+    reward: 9
+  - IndexRoman: V
+    target: 120
+    typeReward: 2
+    reward: 15
+  - IndexRoman: VI
+    target: 200
+    typeReward: 2
+    reward: 30
+  - IndexRoman: VII
+    target: 300
+    typeReward: 2
+    reward: 50

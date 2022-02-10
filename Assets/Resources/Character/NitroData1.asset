@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 024d470a798c93b4797ac40279148373, type: 3}
+  m_Name: NitroData1
+  m_EditorClassIdentifier: 
+  nitroConfigs:
+  - display: 35
+    time: 2
+    damage: 50
+  - display: 43
+    time: 2.1
+    damage: 63
+  - display: 51
+    time: 2.1
+    damage: 75
+  - display: 60
+    time: 2.2
+    damage: 88
+  - display: 68
+    time: 2.2
+    damage: 100
+  - display: 77
+    time: 2.3
+    damage: 113
+  - display: 85
+    time: 2.3
+    damage: 125
+  - display: 93
+    time: 2.4
+    damage: 138
+  - display: 102
+    time: 2.4
+    damage: 150
+  - display: 110
+    time: 2.5
+    damage: 163
+  - display: 118
+    time: 2.5
+    damage: 175
+  - display: 127
+    time: 2.6
+    damage: 188
+  - display: 135
+    time: 2.6
+    damage: 200
+  - display: 143
+    time: 2.7
+    damage: 213
+  - display: 152
+    time: 2.7
+    damage: 225
+  - display: 160
+    time: 2.8
+    damage: 238
+  - display: 169
+    time: 2.8
+    damage: 250
+  - display: 177
+    time: 2.9
+    damage: 263
+  - display: 185
+    time: 2.9
+    damage: 275
+  - display: 194
+    time: 3
+    damage: 288

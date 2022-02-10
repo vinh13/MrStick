@@ -1,0 +1,17 @@
+ID 0,HP 1,AI 2,DAMAGE 3,SPD 4,SKINID 5
+1,30,Easy,3,1,1
+2,33,Easy,3,1,2
+3,36,Easy,4,1,3
+4,39,Easy,4,1,4
+5,43,Easy,4,1,5
+6,46,Easy,4,1,6
+7,49,Easy,5,1,7
+8,52,Normal,5,1,1
+9,55,Normal,5,1,2
+10,58,Normal,5,1,4
+11,61,Normal,6,1,5
+12,64,Normal,6,1,6
+13,68,Normal,6,1,7
+14,71,Normal,6,1,1
+15,80,Hard,7,1,2
+16,110,Hard,8,1,7

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c8880ec3382f194e96ef8193fed53e4, type: 3}
+  m_Name: W2
+  m_EditorClassIdentifier: 
+  listDaily:
+  - typeReward: 1
+    ValueReward: 200
+    spr: {fileID: 21300000, guid: 4e534aa4029024d4c994aabbd41b9634, type: 3}
+    equipType: 0
+    equiConfig: {fileID: 0}
+  - typeReward: 1
+    ValueReward: 400
+    spr: {fileID: 21300000, guid: 4e534aa4029024d4c994aabbd41b9634, type: 3}
+    equipType: 0
+    equiConfig: {fileID: 0}
+  - typeReward: 5
+    ValueReward: 3
+    spr: {fileID: 21300000, guid: 22c35a96dfc4e8a4cb5e4b54b116bf81, type: 3}
+    equipType: 0
+    equiConfig: {fileID: 0}
+  - typeReward: 6
+    ValueReward: 3
+    spr: {fileID: 21300000, guid: b8cef13c8b8ba6843b625bc6f8914101, type: 3}
+    equipType: 0
+    equiConfig: {fileID: 0}
+  - typeReward: 4
+    ValueReward: 1
+    spr: {fileID: 0}
+    equipType: 4
+    equiConfig: {fileID: 11400000, guid: 241444a219ddd2549aadf00b4c23ec37, type: 2}
+  - typeReward: 1
+    ValueReward: 700
+    spr: {fileID: 21300000, guid: 4e534aa4029024d4c994aabbd41b9634, type: 3}
+    equipType: 0
+    equiConfig: {fileID: 0}
+  - typeReward: 3
+    ValueReward: 1
+    spr: {fileID: 0}
+    equipType: 1
+    equiConfig: {fileID: 11400000, guid: 9a26abc92b16dd842b998af04b1dc01c, type: 2}

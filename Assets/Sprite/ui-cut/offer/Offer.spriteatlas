@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Offer
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 56
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 29
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 4c9522a9dfbad5943a72243c8c57f7bb, type: 3}
+    - {fileID: 2800000, guid: 443ebda56ed4e54479a3d935d2a4cd07, type: 3}
+    - {fileID: 2800000, guid: 2dde6979583683f4c8cf46216d653d49, type: 3}
+    - {fileID: 2800000, guid: 629310be6dba3064ab3d1897d9ccc85b, type: 3}
+    - {fileID: 2800000, guid: 3c688a068ca27084199412866f4dee77, type: 3}
+    - {fileID: 2800000, guid: 293e11bc684a8e549b7474edf39e9cfa, type: 3}
+    - {fileID: 2800000, guid: 2a1c48ef6e3ce6c42ad4a5f8d0f0eb7f, type: 3}
+    - {fileID: 2800000, guid: 931785570dd4ae64ca22d993b52e4736, type: 3}
+    - {fileID: 2800000, guid: 212168241c3b2d0478a87bf51f711013, type: 3}
+    - {fileID: 2800000, guid: a642c3ef8ecd1b64da9e2195c97cab9b, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 212168241c3b2d0478a87bf51f711013, type: 3}
+  - {fileID: 21300000, guid: 443ebda56ed4e54479a3d935d2a4cd07, type: 3}
+  - {fileID: 21300000, guid: 3c688a068ca27084199412866f4dee77, type: 3}
+  - {fileID: 21300000, guid: 931785570dd4ae64ca22d993b52e4736, type: 3}
+  - {fileID: 21300000, guid: 2dde6979583683f4c8cf46216d653d49, type: 3}
+  - {fileID: 21300000, guid: 4c9522a9dfbad5943a72243c8c57f7bb, type: 3}
+  - {fileID: 21300000, guid: 293e11bc684a8e549b7474edf39e9cfa, type: 3}
+  - {fileID: 21300000, guid: 629310be6dba3064ab3d1897d9ccc85b, type: 3}
+  - {fileID: 21300000, guid: a642c3ef8ecd1b64da9e2195c97cab9b, type: 3}
+  - {fileID: 21300000, guid: 2a1c48ef6e3ce6c42ad4a5f8d0f0eb7f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - sale
+  - 2
+  - bt
+  - key
+  - bg
+  - 1
+  - gem
+  - bg-text
+  - sale2
+  - gold
+  m_Tag: Offer
+  m_IsVariant: 0

@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - Item
+  - TriggerEnd
+  - OutRange
+  - AI
+  - shield
+  - skin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Vehicle
+  - Ground
+  - Objects
+  - OutPlayer
+  - Enemy
+  - VehicleEnemy
+  - OutEnemy
+  - EWP
+  - PWP
+  - EnemyDeath
+  - WithGround
+  - WithEnemy
+  - Shield
+  - Gif
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1395746019
+    locked: 0
+  - name: Player
+    uniqueID: 2726156857
+    locked: 0
+  - name: E1
+    uniqueID: 1674641993
+    locked: 0
+  - name: E2
+    uniqueID: 4105104245
+    locked: 0
+  - name: E3
+    uniqueID: 3021109583
+    locked: 0
+  - name: E4
+    uniqueID: 488126489
+    locked: 0
+  - name: E5
+    uniqueID: 2772787157
+    locked: 0
+  - name: E6
+    uniqueID: 2728822405
+    locked: 0
+  - name: E7
+    uniqueID: 79088607
+    locked: 0
+  - name: E8
+    uniqueID: 649518349
+    locked: 0
+  - name: WP
+    uniqueID: 3115736803
+    locked: 0
+  - name: Vehicle
+    uniqueID: 1932294941
+    locked: 0
+  - name: Objects
+    uniqueID: 176340809
+    locked: 0
+  - name: Effects
+    uniqueID: 2326550337
+    locked: 0
+  - name: UI
+    uniqueID: 3885770339
+    locked: 0

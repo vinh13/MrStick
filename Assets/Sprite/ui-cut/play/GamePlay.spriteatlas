@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: GamePlay
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 2
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 29
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 923b7b3488783d9489f5bf9e46b93fa2, type: 3}
+    - {fileID: 2800000, guid: 338df3b212506f744b577937a62fa71f, type: 3}
+    - {fileID: 2800000, guid: 586998c3123c8d343b111238ccd89909, type: 3}
+    - {fileID: 2800000, guid: 3a3625b43b5ef9347ae5f0c9530a1af1, type: 3}
+    - {fileID: 2800000, guid: 6351b6921cf701d46b07a2a1115a405f, type: 3}
+    - {fileID: 2800000, guid: bb73fa9a512a38146bd8a8a3c66d6ea3, type: 3}
+    - {fileID: 2800000, guid: f42a9e0f2f2e2444db4907592647ac38, type: 3}
+    - {fileID: 2800000, guid: 8ae3dd645650a934caf751406c7b32f4, type: 3}
+    - {fileID: 2800000, guid: 727afbdd843b34d419cafb032d561056, type: 3}
+    - {fileID: 2800000, guid: 45f5f1ee6231c1d4ba8c75120ee574f9, type: 3}
+    - {fileID: 2800000, guid: 472bbd017f5d6304fb5d5a1438bf0222, type: 3}
+    - {fileID: 2800000, guid: fd03da46d666b5e4f917beebf5a4e572, type: 3}
+    - {fileID: 2800000, guid: 10c7c63e8ba89c4459cb4e5c4e78fa35, type: 3}
+    - {fileID: 2800000, guid: 39d2e041662d3134bab1ebd673b0bd1d, type: 3}
+    - {fileID: 2800000, guid: 2fca054933ee0bf4fa973d227f09e70d, type: 3}
+    - {fileID: 2800000, guid: 368cdd1839b0adc4f84f9f1f044d8137, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 472bbd017f5d6304fb5d5a1438bf0222, type: 3}
+  - {fileID: 21300000, guid: 39d2e041662d3134bab1ebd673b0bd1d, type: 3}
+  - {fileID: 21300000, guid: 6351b6921cf701d46b07a2a1115a405f, type: 3}
+  - {fileID: 21300000, guid: 338df3b212506f744b577937a62fa71f, type: 3}
+  - {fileID: 21300000, guid: 586998c3123c8d343b111238ccd89909, type: 3}
+  - {fileID: 21300000, guid: 923b7b3488783d9489f5bf9e46b93fa2, type: 3}
+  - {fileID: 21300000, guid: 8ae3dd645650a934caf751406c7b32f4, type: 3}
+  - {fileID: 21300000, guid: 3a3625b43b5ef9347ae5f0c9530a1af1, type: 3}
+  - {fileID: 21300000, guid: fd03da46d666b5e4f917beebf5a4e572, type: 3}
+  - {fileID: 21300000, guid: 368cdd1839b0adc4f84f9f1f044d8137, type: 3}
+  - {fileID: 21300000, guid: 2fca054933ee0bf4fa973d227f09e70d, type: 3}
+  - {fileID: 21300000, guid: bb73fa9a512a38146bd8a8a3c66d6ea3, type: 3}
+  - {fileID: 21300000, guid: 727afbdd843b34d419cafb032d561056, type: 3}
+  - {fileID: 21300000, guid: 10c7c63e8ba89c4459cb4e5c4e78fa35, type: 3}
+  - {fileID: 21300000, guid: 45f5f1ee6231c1d4ba8c75120ee574f9, type: 3}
+  - {fileID: 21300000, guid: f42a9e0f2f2e2444db4907592647ac38, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - lap
+  - mana
+  - bt
+  - 2
+  - 3
+  - 1
+  - bt3
+  - bg-1
+  - line
+  - pause
+  - name
+  - bt1
+  - btEf
+  - line2
+  - hp
+  - bt2
+  m_Tag: GamePlay
+  m_IsVariant: 0

@@ -1,0 +1,2359 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1909658389591426}
+  m_IsPrefabAsset: 1
+--- !u!1 &1031856097671642
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4374284190849952}
+  - component: {fileID: 114275427765160956}
+  - component: {fileID: 114060789783208882}
+  m_Layer: 0
+  m_Name: Iron
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1076604475196956
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4853345921572476}
+  - component: {fileID: 114426122763685890}
+  - component: {fileID: 114120694109503578}
+  m_Layer: 0
+  m_Name: Appflyer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1240100768046468
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4886048038392990}
+  - component: {fileID: 114786921317410566}
+  - component: {fileID: 114120931286547760}
+  m_Layer: 0
+  m_Name: Purchaser
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1260672960897432
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4453319503541498}
+  - component: {fileID: 114321570554199482}
+  - component: {fileID: 114243046266112512}
+  m_Layer: 0
+  m_Name: AllinOneManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1466909771424988
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4534242228084856}
+  - component: {fileID: 114564597789028774}
+  - component: {fileID: 114309197498227714}
+  m_Layer: 0
+  m_Name: LocalizationSource
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1909658389591426
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4629321776430452}
+  - component: {fileID: 114655249495093156}
+  - component: {fileID: 114302008672103638}
+  - component: {fileID: 114047217780102800}
+  - component: {fileID: 114412680737995024}
+  - component: {fileID: 114753580959198204}
+  - component: {fileID: 114918741199438866}
+  - component: {fileID: 114732372153909366}
+  m_Layer: 0
+  m_Name: AllinOne
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4374284190849952
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1031856097671642}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4629321776430452}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4453319503541498
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1260672960897432}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4629321776430452}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4534242228084856
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1466909771424988}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4629321776430452}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4629321776430452
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1909658389591426}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4453319503541498}
+  - {fileID: 4886048038392990}
+  - {fileID: 4374284190849952}
+  - {fileID: 4853345921572476}
+  - {fileID: 4534242228084856}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4853345921572476
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1076604475196956}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4629321776430452}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4886048038392990
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1240100768046468}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4629321776430452}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114047217780102800
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1909658389591426}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 348cf1edd95bd5b4ca7224572e5f0c0a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114060789783208882
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1031856097671642}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 112998890, guid: 325c5b2a7434372429c2ca9d61dba58e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _guid: e1580605-6266-407d-97ef-4793b1009ae1
+--- !u!114 &114120694109503578
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1076604475196956}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 112998890, guid: 325c5b2a7434372429c2ca9d61dba58e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _guid: c9b4b8f2-a1ca-496b-9bdc-8705c01c9f51
+--- !u!114 &114120931286547760
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1240100768046468}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 112998890, guid: 325c5b2a7434372429c2ca9d61dba58e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _guid: 187f84de-3ad2-4641-a840-2688b38b54f7
+--- !u!114 &114243046266112512
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1260672960897432}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 112998890, guid: 325c5b2a7434372429c2ca9d61dba58e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _guid: 33de85c6-a8b4-493a-91c3-5ce3a2976aab
+--- !u!114 &114275427765160956
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1031856097671642}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77ce18a206d21e440a795bd57a09365b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ironSourceKeyAndroid: b5da77a5
+  ironSourceKeyIos: 
+  isVideoAvail: 0
+  bannerIsshow: 0
+--- !u!114 &114302008672103638
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1909658389591426}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cdab82f9d8be77449bcaf990145fb75, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114309197498227714
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1466909771424988}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 112998890, guid: 325c5b2a7434372429c2ca9d61dba58e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _guid: bbece652-ad79-479f-b917-a21fb3783d3a
+--- !u!114 &114321570554199482
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1260672960897432}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90930dfddebe2cf4884d175622bfd45d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  leaderboardIDs:
+  - leaderboardID: CgkI4rOI6NoKEAIQAQ
+    keyPrefs: TopKiller
+  leaderboardIDs_IOS:
+  - leaderboardID: bestCrown
+    keyPrefs: TopKiller
+--- !u!114 &114412680737995024
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1909658389591426}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -605777808, guid: 325c5b2a7434372429c2ca9d61dba58e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _guid: 
+  _referenceCollection:
+    _collection:
+    - {fileID: 1909658389591426}
+    - {fileID: 1260672960897432}
+    - {fileID: 1240100768046468}
+    - {fileID: 1031856097671642}
+    - {fileID: 1076604475196956}
+    - {fileID: 1466909771424988}
+  _assetGuid: 29e02a04fef4828469c4ee74f976df85
+--- !u!114 &114426122763685890
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1076604475196956}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2491e024fde34bc885e7ed44f5433fa8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  devKey: Gio8zFFVzAZJGr9sbHXoVb
+  androidPackageName: stickman.ragdoll.happy.wheel
+  appleAppId: 1477789480
+--- !u!114 &114564597789028774
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1466909771424988}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 488051eaa73ba421e8fe4868f2e0f364, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: Turtorial
+      TermType: 0
+      Description: 
+      Languages:
+      - Tutorial
+      - "H\u01AF\u1EDANG D\u1EAAN"
+      - "\uC9C0\uCE68"
+      - "\u8AAC\u660E\u66F8"
+      - "\u0926\u093F\u0936\u093E-\u0928\u093F\u0930\u094D\u0926\u0947\u0936"
+      - "INSTRU\xC7\xD5ES"
+      - INSTRUKSI
+      - "\u041D\u0410\u041F\u0420\u0410\u0412\u041B\u0415\u041D\u0418\u042F"
+      - "\u0E40\u0E2A\u0E49\u0E19\u0E17\u0E32\u0E07"
+      - "\u0633\u0644\u062D\u0641\u0627\u0629"
+      - ANWEISUNGEN
+      - "\u5BFC\u56FE"
+      - "\u4F7F\u7528\u8AAA\u660E"
+      - Tutorial
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: TAP TO JUMP
+      TermType: 0
+      Description: 
+      Languages:
+      - TAP TO JUMP
+      - "B\u1EA4M V\xC0O \u0110\xC2Y \u0110\u1EC2 NH\u1EA2Y"
+      - "\uC810\uD504\uD558\uB824\uBA74 \uC5EC\uAE30\uB97C \uD074\uB9AD\uD558\uC2ED\uC2DC\uC624"
+      - "\u30B8\u30E3\u30F3\u30D7\u3059\u308B\u306B\u306F\u3053\u3053\u3092\u30AF\u30EA\u30C3\u30AF"
+      - "JUMP \u092A\u0930 \u092F\u0939\u093E\u0901 \u0915\u094D\u0932\u093F\u0915
+        \u0915\u0930\u0947\u0902"
+      - CLIQUE AQUI PARA SALTAR
+      - KLIK DI SINI UNTUK MELOMPAT
+      - "\u041D\u0410\u0416\u041C\u0418\u0422\u0415 \u0417\u0414\u0415\u0421\u042C,
+        \u0447\u0442\u043E\u0431\u044B \u043F\u0440\u044B\u0433\u0430\u0442\u044C"
+      - "\u0E04\u0E25\u0E34\u0E01\u0E17\u0E35\u0E48\u0E19\u0E35\u0E48\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E01\u0E23\u0E30\u0E42\u0E14\u0E14"
+      - "\u0627\u0646\u0642\u0631 \u0644\u0644\u0627\u0646\u062A\u0642\u0627\u0644"
+      - KLICKEN SIE HIER, UM ZU SPRINGEN
+      - "\u70B9\u51FB\u8DF3\u8F6C"
+      - "\u55AE\u64CA\u6B64\u8655\u8DF3\u8F49"
+      - TOQUE PARA SALTAR
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: TAP TO SLIDE
+      TermType: 0
+      Description: 
+      Languages:
+      - TAP TO SLIDE
+      - "B\u1EA4M V\xC0O \u0110\xC2Y \u0110\u1EC2 TR\u01AF\u1EE2T"
+      - "\uC2AC\uB77C\uC774\uB4DC\uD558\uB824\uBA74 \uC5EC\uAE30\uB97C \uD074\uB9AD\uD558\uC2ED\uC2DC\uC624"
+      - "\u30B9\u30E9\u30A4\u30C9\u3059\u308B\u306B\u306F\u3053\u3053\u3092\u30AF\u30EA\u30C3\u30AF"
+      - "\u092F\u0939\u093E\u0901 \u0915\u094D\u0932\u093F\u0915 \u0915\u0930\u0947\u0902
+        \u0938\u094D\u0932\u093E\u0907\u0921 \u0915\u0930\u0928\u0947 \u0915\u0947
+        \u0932\u093F\u090F"
+      - CLIQUE AQUI PARA SLIDE
+      - KLIK DI SINI UNTUK Geser
+      - "\u041D\u0410\u0416\u041C\u0418\u0422\u0415 \u0417\u0414\u0415\u0421\u042C,
+        \u0427\u0422\u041E\u0411\u042B \u0421\u0414\u0415\u041B\u0410\u0422\u042C"
+      - "\u0E04\u0E25\u0E34\u0E01\u0E17\u0E35\u0E48\u0E19\u0E35\u0E48\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E40\u0E25\u0E37\u0E48\u0E2D\u0E19"
+      - "\u0627\u0646\u0642\u0631 \u0644\u0644\u0627\u0646\u0632\u0644\u0627\u0642"
+      - KLICKEN SIE HIER, UM ZU SCHIEBEN
+      - "\u70B9\u51FB\u6ED1\u52A8"
+      - "\u55AE\u64CA\u6B64\u8655\u6ED1\u52D5"
+      - TOQUE PARA DESLIZAR
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: Hold to UP SPEED
+      TermType: 0
+      Description: 
+      Languages:
+      - Hold to UP SPEED
+      - "NH\u1EA4N GI\u1EEE \u0110\u1EC2 T\u0102NG T\u1ED0C"
+      - "\uC18D\uB3C4 \uC720\uC9C0"
+      - "\u30B9\u30D4\u30FC\u30C9\u3092\u4E0A\u3052\u3066"
+      - "\u0938\u094D\u092A\u0940\u0921 \u091F\u0942 \u092F\u0942\u092A\u0940 \u0930\u0916\u0947\u0902"
+      - Segure para acelerar
+      - TAHAN KECEPATAN
+      - "\u0414\u0435\u0440\u0436\u0438\u0441\u044C, \u0447\u0442\u043E\u0431\u044B
+        \u0443\u0441\u043A\u043E\u0440\u0438\u0442\u044C"
+      - "\u0E16\u0E37\u0E2D\u0E04\u0E27\u0E32\u0E21\u0E40\u0E23\u0E47\u0E27"
+      - "\u062A\u0645\u0633\u0643 \u0628\u0623\u0639\u0644\u0649 \u0633\u0631\u0639\u0629"
+      - Halten Sie, um zu beschleunigen
+      - "\u6309\u4F4FUP SPEED"
+      - "\u4FDD\u6301\u52A0\u901F"
+      - Mantenga presionada la tecla UP SPEED
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: Move LEFT
+      TermType: 0
+      Description: 
+      Languages:
+      - Move LEFT
+      - "L\xD9I L\u1EA0I"
+      - "\uB4A4\uB85C"
+      - "\u623B\u308B"
+      - "\u092A\u094D\u0930\u0924\u093F\u0917\u093E\u092E\u0940"
+      - VOLTAR
+      - KEMBALI
+      - "\u0440\u0435\u0433\u0440\u0435\u0441\u0441\u0438\u0432\u043D\u044B\u0439"
+      - "\u0E0B\u0E36\u0E48\u0E07\u0E16\u0E2D\u0E22\u0E01\u0E25\u0E31\u0E1A"
+      - "\u062A\u062D\u0631\u064A\u0643 \u0644\u0644\u064A\u0633\u0627\u0631"
+      - "ZUR\xDCCK"
+      - "\u5411\u5DE6\u79FB\u52A8"
+      - "\u5F8C\u9000"
+      - "\u5F8C\u9000"
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: Tap to ATTACK
+      TermType: 0
+      Description: 
+      Languages:
+      - Tap to ATTACK
+      - "B\u1EA4M V\xC0O \u0110\xC2Y \u0110\u1EC2 T\u1EA4N C\xD4NG"
+      - "\uACF5\uACA9\uC740 \uC5EC\uAE30\uB97C \uD074\uB9AD\uD558\uC2ED\uC2DC\uC624"
+      - "\u653B\u6483\u3059\u308B\u306B\u306F\u3053\u3053\u3092\u30AF\u30EA\u30C3\u30AF"
+      - "ATTACK \u0915\u0947 \u0932\u093F\u090F \u092F\u0939\u093E\u0902 \u0915\u094D\u0932\u093F\u0915
+        \u0915\u0930\u0947\u0902"
+      - CLIQUE AQUI PARA ATAQUE
+      - KLIK DI SINI UNTUK SERANGAN
+      - "\u041D\u0410\u0416\u041C\u0418\u0422\u0415 \u0417\u0414\u0415\u0421\u042C
+        \u0414\u041B\u042F \u0410\u0422\u0410\u041A\u0418"
+      - "\u0E04\u0E25\u0E34\u0E01\u0E17\u0E35\u0E48\u0E19\u0E35\u0E48\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E42\u0E08\u0E21\u0E15\u0E35"
+      - "\u0627\u0646\u0642\u0631 \u0644\u0644\u0647\u062C\u0648\u0645"
+      - "KLICKEN SIE HIER F\xDCR EINEN ANGRIFF"
+      - "\u70B9\u51FB\u653B\u51FB"
+      - "\u9EDE\u64CA\u9019\u88E1\u653B\u64CA"
+      - Toca para ATAQUE
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: UPGRADE CHARACTER
+      TermType: 0
+      Description: 
+      Languages:
+      - UPGRADE CHARACTER
+      - "N\xC2NG C\u1EA4P NH\xC2N V\u1EACT"
+      - "\uCE90\uB9AD\uD130 \uC5C5\uADF8\uB808\uC774\uB4DC"
+      - "\u30AD\u30E3\u30E9\u30AF\u30BF\u30FC\u306E\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9"
+      - "\u0909\u0917\u093E\u0939\u0940 \u0915\u093E \u0915\u093E\u092E"
+      - ATUALIZANDO PERSONAGENS
+      - KARAKTER PENINGKATAN
+      - "\u041E\u0411\u041D\u041E\u0412\u041B\u0415\u041D\u0418\u0415 \u0425\u0410\u0420\u0410\u041A\u0422\u0415\u0420\u041E\u0412"
+      - "\u0E2D\u0E31\u0E1B\u0E40\u0E01\u0E23\u0E14\u0E15\u0E31\u0E27\u0E25\u0E30\u0E04\u0E23"
+      - "\u062A\u0631\u0642\u064A\u0629 \u0627\u0644\u0623\u062D\u0631\u0641"
+      - UPGRADING CHARACTERS
+      - "\u5347\u7EA7\u5B57\u7B26"
+      - "\u5347\u7D1A\u5B57\u7B26"
+      - "ACTUALIZACI\xD3N DE PERSONAJES"
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: UPGRADE HP
+      TermType: 0
+      Description: 
+      Languages:
+      - UPGRADE HP
+      - "N\xC2NG C\u1EA4P M\xC1U"
+      - "\uC5C5\uADF8\uB808\uC774\uB4DC \uD608\uC561"
+      - "\u8840\u6DB2\u306E\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9"
+      - UPGRADE HP
+      - UPGRADE SANGUE
+      - DARAH UPGRADE
+      - "\u041E\u0411\u041D\u041E\u0412\u0418\u0422\u042C \u041A\u0420\u041E\u0412\u042C"
+      - UPGRADE HP
+      - "\u062A\u0631\u0642\u064A\u0629 HP"
+      - UPGRADE BLUT
+      - "\u5347\u7EA7\u60E0\u666E"
+      - "\u5347\u7D1A\u8840\u6DB2"
+      - ACTUALIZAR HP
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: TAP TO PLAY
+      TermType: 0
+      Description: 
+      Languages:
+      - TAP TO PLAY
+      - "B\u1EA4M \u0110\u1EC2 CH\u01A0I"
+      - "\uD50C\uB808\uC774\uD558\uB824\uBA74 \uD074\uB9AD"
+      - "\u30AF\u30EA\u30C3\u30AF\u3057\u3066\u30D7\u30EC\u30A4"
+      - "\u0916\u0947\u0932\u0928\u0947 \u0915\u0947 \u0932\u093F\u090F \u0915\u094D\u0932\u093F\u0915
+        \u0915\u0930\u0947\u0902"
+      - CLIQUE PARA JOGAR
+      - KLIK UNTUK BERMAIN
+      - "\u041D\u0410\u0416\u041C\u0418\u0422\u0415, \u0427\u0422\u041E\u0411\u042B
+        \u0418\u0413\u0420\u0410\u0422\u042C"
+      - "\u0E04\u0E25\u0E34\u0E01\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E40\u0E25\u0E48\u0E19"
+      - "\u0627\u0646\u0642\u0631 \u0644\u0644\u0639\u0628"
+      - KLICKEN SIE, UM ZU SPIELEN
+      - "\u70B9\u51FB\u64AD\u653E"
+      - "\u9EDE\u64CA\u64AD\u653E"
+      - TOQUE PARA JUGAR
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: SELLECT LEVEL 1
+      TermType: 0
+      Description: 
+      Languages:
+      - SELLECT LEVEL 1
+      - "CH\u1ECCN M\xC0N CH\u01A0I 1"
+      - "\uD654\uBA74 \uC120\uD0DD 1"
+      - "\u753B\u9762\u3092\u9078\u629E1"
+      - "\u0938\u094D\u0915\u094D\u0930\u0940\u0928 1 \u0915\u093E \u091A\u092F\u0928
+        \u0915\u0930\u0947\u0902"
+      - SELECIONE A TELA 1
+      - PILIH LAYAR 1
+      - "\u0412\u042B\u0411\u0415\u0420\u0418\u0422\u0415 \u042D\u041A\u0420\u0410\u041D
+        1"
+      - "\u0E40\u0E25\u0E37\u0E2D\u0E01\u0E2B\u0E19\u0E49\u0E32\u0E08\u0E2D 1"
+      - "\u0645\u0633\u062A\u0648\u0649 \u0627\u0644\u062A\u0645\u0631 1"
+      - "W\xC4HLEN SIE DEN BILDSCHIRM 1"
+      - "\u4E00\u7EA7"
+      - "\u9078\u64C7\u5C4F\u5E551"
+      - SELLECT NIVEL 1
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: Drop BOMB
+      TermType: 0
+      Description: 
+      Languages:
+      - Drop BOMB
+      - "TH\u1EA2 BOM"
+      - DROP BOM
+      - "\u30C9\u30ED\u30C3\u30D7\u30DC\u30E0"
+      - "\u0921\u094D\u0930\u0949\u092A \u092C\u0949\u092E"
+      - DROP BOM
+      - DROP BOM
+      - DROP BOM
+      - "\u0625\u0633\u0642\u0627\u0637 \u0642\u0646\u0628\u0644\u0629"
+      - "\u0625\u0633\u0642\u0627\u0637 \u0642\u0646\u0628\u0644\u0629"
+      - DROP BOM
+      - "\u653E\u4E0BBOMB"
+      - "\u522A\u9664\u7269\u6599\u6E05\u55AE"
+      - Soltar BOMBA
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: Use Health
+      TermType: 0
+      Description: 
+      Languages:
+      - Use Health
+      - "S\u1EED d\u1EE5ng m\xE1u"
+      - "\uD53C\uB97C \uC0AC\uC6A9\uD558\uC2ED\uC2DC\uC624"
+      - "\u8840\u3092\u4F7F\u3046"
+      - "\u0930\u0915\u094D\u0924 \u0915\u093E \u0909\u092A\u092F\u094B\u0917 \u0915\u0930\u0947\u0902"
+      - Use sangue
+      - Gunakan darah
+      - "\u0418\u0441\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u044C
+        \u043A\u0440\u043E\u0432\u044C"
+      - "\u0E43\u0E0A\u0E49\u0E40\u0E25\u0E37\u0E2D\u0E14"
+      - "\u0627\u0633\u062A\u062E\u062F\u0645 \u0627\u0644\u0635\u062D\u0629"
+      - Verwenden Sie Blut
+      - "\u4F7F\u7528\u5065\u5EB7"
+      - "\u7528\u8840"
+      - Usar la salud
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: Use Shield
+      TermType: 0
+      Description: 
+      Languages:
+      - Use Shield
+      - "S\u1EED d\u1EE5ng khi\xEAn"
+      - "\uBC29\uD328 \uC0AC\uC6A9"
+      - "\u30B7\u30FC\u30EB\u30C9\u3092\u4F7F\u7528"
+      - "\u0922\u093E\u0932 \u0915\u093E \u0909\u092A\u092F\u094B\u0917 \u0915\u0930\u0947\u0902"
+      - Use escudo
+      - Gunakan perisai
+      - "\u0418\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u0439\u0442\u0435 \u0449\u0438\u0442"
+      - "\u0E43\u0E0A\u0E49\u0E42\u0E25\u0E48"
+      - "\u0627\u0633\u062A\u062E\u062F\u0645 \u0627\u0644\u062F\u0631\u0639"
+      - Schild verwenden
+      - "\u4F7F\u7528\u76FE\u724C"
+      - "\u4F7F\u7528\u76FE\u724C"
+      - Usar escudo
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: PLAY
+      TermType: 0
+      Description: 
+      Languages:
+      - PLAY
+      - "CH\u01A0I"
+      - "\uD50C\uB808\uC774"
+      - "\u30D7\u30EC\u30A4"
+      - PLAY
+      - PLAY
+      - MAINKAN
+      - "\u0412\u041E\u0421\u041F\u0420\u041E\u0418\u0417\u0412\u0415\u0414\u0415\u041D\u0418\u0415"
+      - PLAY
+      - "\u0627\u0644\u0639\u0628"
+      - SPIELEN
+      - "\u73A9"
+      - "\u73A9"
+      - JUEGA
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: SHOP
+      TermType: 0
+      Description: 
+      Languages:
+      - SHOP
+      - "C\u1EECA H\xC0NG"
+      - "\uB9E4\uC7A5"
+      - "\u5E97\u8217"
+      - "\u0926\u0941\u0915\u093E\u0928"
+      - LOJA
+      - TOKO
+      - "\u041C\u0410\u0413\u0410\u0417\u0418\u041D"
+      - SHOP
+      - "\u062A\u0633\u0648\u0642"
+      - SPEICHERN
+      - "\u9009\u8D2D"
+      - "\u5132\u5B58"
+      - TIENDA
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: Inventory
+      TermType: 0
+      Description: 
+      Languages:
+      - Inventory
+      - "Kho \u0110\u1ED3"
+      - "\uCC3D\uACE0"
+      - "\u5009\u5EAB"
+      - "\u0905\u092A\u0930\u093F\u092E\u0947\u092F"
+      - "Armaz\xE9m"
+      - Gudang
+      - "\u043D\u0435\u043F\u043E\u0441\u0442\u0438\u0436\u0438\u043C\u044B\u0439"
+      - "\u0E01\u0E34\u0E19\u0E25\u0E36\u0E01"
+      - "\u0627\u0644\u062C\u0631\u062F"
+      - Lager
+      - "\u5B58\u8D27"
+      - "\u8CA8\u5009"
+      - Inventario
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: Upgrade
+      TermType: 0
+      Description: 
+      Languages:
+      - Upgrade
+      - "N\xE2ng C\u1EA5p"
+      - "\uC5C5\uADF8\uB808\uC774\uB4DC"
+      - "\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9"
+      - "\u0909\u0928\u094D\u0928\u092F\u0928"
+      - Upgrade
+      - Tingkatkan
+      - "\u043C\u043E\u0434\u0435\u0440\u043D\u0438\u0437\u0430\u0446\u0438\u044F"
+      - "\u0E01\u0E32\u0E23\u0E2D\u0E31\u0E1E\u0E40\u0E01\u0E23\u0E14"
+      - "\u062A\u0631\u0642\u064A\u0629"
+      - Upgrade
+      - "\u5347\u7EA7\u7248"
+      - "\u5347\u7D1A\u7248"
+      - Actualizar
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: Shop
+      TermType: 0
+      Description: 
+      Languages:
+      - Shop
+      - "C\u1EEDa H\xE0ng"
+      - "\uC1FC\uD551"
+      - "\u30B7\u30E7\u30C3\u30D7"
+      - "\u0926\u0941\u0915\u093E\u0928"
+      - Loja
+      - Berbelanja
+      - "\u043C\u0430\u0433\u0430\u0437\u0438\u043D"
+      - "\u0E23\u0E49\u0E32\u0E19\u0E02\u0E32\u0E22\u0E02\u0E2D\u0E07"
+      - "\u062A\u0633\u0648\u0642"
+      - Shop
+      - "\u94FA"
+      - "\u92EA"
+      - Tienda
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: Gift
+      TermType: 0
+      Description: 
+      Languages:
+      - Gift
+      - "Qu\xE0"
+      - "\uC120\uBB3C"
+      - "\u30D7\u30EC\u30BC\u30F3\u30C8"
+      - "\u0911\u092B\u0930"
+      - Apresenta
+      - Hadiah
+      - "\u043F\u0440\u0435\u0434\u043B\u043E\u0436\u0435\u043D\u0438\u044F"
+      - "\u0E42\u0E1B\u0E23\u0E42\u0E21\u0E0A\u0E31\u0E48\u0E19"
+      - "\u0647\u062F\u064A\u0629"
+      - Geschenke
+      - "\u8D60\u54C1"
+      - "\u79AE\u7269"
+      - Regalo
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: Rank
+      TermType: 0
+      Description: 
+      Languages:
+      - Rank
+      - "B\u1EA3ng x\u1EBFp h\u1EA1ng"
+      - "\uC21C\uC704\uD45C"
+      - "\u30E9\u30F3\u30AD\u30F3\u30B0\u8868"
+      - "\u0930\u0948\u0902\u0915\u093F\u0902\u0917 \u0924\u093E\u0932\u093F\u0915\u093E"
+      - "Tabela de classifica\xE7\xE3o"
+      - Tabel peringkat
+      - "\u0422\u0430\u0431\u043B\u0438\u0446\u0430 \u0440\u0435\u0439\u0442\u0438\u043D\u0433\u0430"
+      - "\u0E15\u0E32\u0E23\u0E32\u0E07\u0E2D\u0E31\u0E19\u0E14\u0E31\u0E1A"
+      - "\u0627\u0644\u0631\u062A\u0628\u0629"
+      - Rangliste
+      - "\u7B49\u7EA7"
+      - "\u6392\u540D\u8868"
+      - Rango
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: Mission
+      TermType: 0
+      Description: 
+      Languages:
+      - Mission
+      - "Nhi\u1EC7m v\u1EE5"
+      - "\uBBF8\uC158"
+      - "\u30DF\u30C3\u30B7\u30E7\u30F3"
+      - "\u092E\u093F\u0936\u0928"
+      - "Miss\xF5es"
+      - Misi
+      - "\u043C\u0438\u0441\u0441\u0438\u044F"
+      - "\u0E2B\u0E19\u0E49\u0E32\u0E17\u0E35\u0E48"
+      - "\u0627\u0644\u0645\u0647\u0645\u0629"
+      - Missionen
+      - "\u4F7F\u547D"
+      - "\u4EFB\u52D9"
+      - "Misi\xF3n"
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: Daily
+      TermType: 0
+      Description: 
+      Languages:
+      - Daily
+      - "Th\u01B0\u1EDFng h\u1EB1ng ng\xE0y"
+      - "\uC77C\uC77C \uBCF4\uC0C1"
+      - "\u6BCE\u65E5\u306E\u5831\u916C"
+      - "\u0926\u0948\u0928\u093F\u0915 \u092A\u0941\u0930\u0938\u094D\u0915\u093E\u0930"
+      - "Recompensas di\xE1rias"
+      - Hadiah harian
+      - "\u0415\u0436\u0435\u0434\u043D\u0435\u0432\u043D\u044B\u0435 \u043D\u0430\u0433\u0440\u0430\u0434\u044B"
+      - "\u0E23\u0E32\u0E07\u0E27\u0E31\u0E25\u0E1B\u0E23\u0E30\u0E08\u0E33\u0E27\u0E31\u0E19"
+      - "\u064A\u0648\u0645\u064A\u064B\u0627"
+      - "T\xE4gliche Belohnungen"
+      - "\u65E5\u62A5"
+      - "\u6BCF\u65E5\u734E\u52F5"
+      - Diariamente
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: Flash SALE
+      TermType: 0
+      Description: 
+      Languages:
+      - Flash SALE
+      - "Khuy\u1EBFn m\xE3i"
+      - "\uD504\uB85C\uBAA8\uC158"
+      - "\u30D7\u30ED\u30E2\u30FC\u30B7\u30E7\u30F3"
+      - "\u092A\u0926\u094B\u0928\u094D\u0928\u0924\u093F"
+      - "Promo\xE7\xE3o"
+      - Promosi
+      - "\u043F\u0440\u043E\u0434\u0432\u0438\u0436\u0435\u043D\u0438\u0435 \u043F\u043E
+        \u0441\u043B\u0443\u0436\u0431\u0435"
+      - "\u0E01\u0E32\u0E23\u0E2A\u0E48\u0E07\u0E40\u0E2A\u0E23\u0E34\u0E21"
+      - "\u0E01\u0E32\u0E23\u0E2A\u0E48\u0E07\u0E40\u0E2A\u0E23\u0E34\u0E21"
+      - "F\xF6rderung"
+      - "\u95EA\u8D2D"
+      - "\u6649\u5347"
+      - Venta flash
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: First IN-AP
+      TermType: 0
+      Description: 
+      Languages:
+      - First IN-AP
+      - "N\u1EA1p l\u1EA7n \u0111\u1EA7u"
+      - "\uCC98\uC74C \uB85C\uB529"
+      - "\u521D\u3081\u3066\u306E\u8AAD\u307F\u8FBC\u307F"
+      - "\u092A\u0939\u0932\u0940 \u092C\u093E\u0930 \u0932\u094B\u0921 \u0939\u094B
+        \u0930\u0939\u093E \u0939\u0948"
+      - Carregamento pela primeira vez
+      - Pemuatan pertama kali
+      - "\u041F\u0435\u0440\u0432\u0430\u044F \u0437\u0430\u0433\u0440\u0443\u0437\u043A\u0430"
+      - "\u0E01\u0E32\u0E23\u0E42\u0E2B\u0E25\u0E14\u0E04\u0E23\u0E31\u0E49\u0E07\u0E41\u0E23\u0E01"
+      - "\u0623\u0648\u0644 IN-AP"
+      - Erstes Laden
+      - "\u9996\u4E2AIN-AP"
+      - "\u7B2C\u4E00\u6B21\u52A0\u8F09"
+      - Primero en AP
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: UserGuest
+      TermType: 0
+      Description: 
+      Languages:
+      - UserGuest
+      - "Ng\u01B0\u1EDDi d\xF9ng kh\xE1ch"
+      - "\uC190\uB2D8 \uC0AC\uC6A9\uC790"
+      - "\uC190\uB2D8 \uC0AC\uC6A9\uC790"
+      - "\u0905\u0924\u093F\u0925\u093F \u0909\u092A\u092F\u094B\u0917\u0915\u0930\u094D\u0924\u093E"
+      - "Usu\xE1rio convidado"
+      - Pengguna tamu
+      - "\u0413\u043E\u0441\u0442\u044C"
+      - "\u0E1C\u0E39\u0E49\u0E43\u0E0A\u0E49\u0E17\u0E31\u0E48\u0E27\u0E44\u0E1B"
+      - UserGuest
+      - Gastbenutzer
+      - "\u7528\u6237\u6765\u5BBE"
+      - "\u4F86\u8CD3\u7528\u6236"
+      - UserGuest
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: First time only
+      TermType: 0
+      Description: 
+      Languages:
+      - First time only
+      - "Ch\u1EC9 l\u1EA7n \u0111\u1EA7u ti\xEAn"
+      - "\uCC98\uC74C\uC73C\uB85C"
+      - "\u521D\u3081\u3066\u3060\u3051"
+      - "\u0915\u0947\u0935\u0932 \u092A\u0939\u0932\u0940 \u092C\u093E\u0930"
+      - Apenas pela primeira vez
+      - Hanya untuk pertama kalinya
+      - "\u0422\u043E\u043B\u044C\u043A\u043E \u0432 \u043F\u0435\u0440\u0432\u044B\u0439
+        \u0440\u0430\u0437"
+      - "\u0E40\u0E1B\u0E47\u0E19\u0E04\u0E23\u0E31\u0E49\u0E07\u0E41\u0E23\u0E01\u0E40\u0E17\u0E48\u0E32\u0E19\u0E31\u0E49\u0E19"
+      - "\u0627\u0644\u0645\u0631\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0641\u0642\u0637"
+      - Nur zum ersten Mal
+      - "\u4EC5\u9650\u7B2C\u4E00\u6B21"
+      - "\u50C5\u9650\u7B2C\u4E00\u6B21"
+      - Solo por primera vez
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: UPGRADE
+      TermType: 0
+      Description: 
+      Languages:
+      - UPGRADE
+      - "N\xC2NG C\u1EA4P"
+      - "\uC5C5\uADF8\uB808\uC774\uB4DC"
+      - "\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9"
+      - "\u0909\u0928\u094D\u0928\u092F\u0928"
+      - "ATUALIZA\xC7\xC3O"
+      - UPGRADE
+      - "\u041E\u0411\u041D\u041E\u0412\u041B\u0415\u041D\u0418\u0415"
+      - "\u0E01\u0E32\u0E23\u0E2D\u0E31\u0E1E\u0E40\u0E01\u0E23\u0E14"
+      - "\u062A\u0631\u0642\u064A\u0629"
+      - UPGRADE
+      - "\u5347\u7EA7\u7248"
+      - "\u5347\u7D1A\u7248"
+      - "ACTUALIZACI\xD3N"
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: ATTACK
+      TermType: 0
+      Description: 
+      Languages:
+      - ATTACK
+      - "T\u1EA4N C\xD4NG"
+      - "\uACF5\uACA9"
+      - "\u653B\u6483"
+      - "\u0906\u092A\u0924\u094D\u0924\u093F\u091C\u0928\u0915"
+      - Ataque
+      - Serang
+      - OFFENSIVE
+      - "\u0E17\u0E35\u0E48\u0E19\u0E48\u0E32\u0E23\u0E31\u0E07\u0E40\u0E01\u0E35\u0E22\u0E08"
+      - "\u0627\u0644\u0647\u062C\u0648\u0645"
+      - Angriff
+      - "\u653B\u51FB\u529B"
+      - "\u653B\u64CA\u529B"
+      - ATAQUE
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: HEALTH POINT
+      TermType: 0
+      Description: 
+      Languages:
+      - HEALTH POINT
+      - "S\u1EE8C KH\u1ECEE"
+      - "\uAC74\uAC15"
+      - "\u5065\u5EB7"
+      - "\u0938\u094D\u0935\u093E\u0938\u094D\u0925\u094D\u092F"
+      - "SA\xDADE"
+      - KESEHATAN
+      - "\u0417\u0414\u041E\u0420\u041E\u0412\u042C\u0415"
+      - "\u0E2A\u0E38\u0E02\u0E20\u0E32\u0E1E"
+      - "\u0646\u0642\u0637\u0629 \u0635\u062D\u064A\u0629"
+      - GESUNDHEIT
+      - "\u5065\u5EB7\u70B9"
+      - "\u5065\u5EB7\u72C0\u6CC1"
+      - PUNTO DE SALUD
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: NITRO
+      TermType: 0
+      Description: 
+      Languages:
+      - NITRO
+      - "T\u0102NG T\u1ED0C"
+      - "\uC18D\uB3C4"
+      - "\u30B9\u30D4\u30FC\u30C9\u30A2\u30C3\u30D7"
+      - "\u0938\u094D\u092A\u0940\u0921 \u092F\u0942\u092A\u0940"
+      - SPEED UP
+      - KECEPATAN
+      - "\u0423\u0441\u043A\u043E\u0440\u0435\u043D\u0438\u0435"
+      - "\u0E04\u0E27\u0E32\u0E21\u0E40\u0E23\u0E47\u0E27\u0E02\u0E36\u0E49\u0E19"
+      - "\u0646\u064A\u062A\u0631\u0648"
+      - Beschleunigen
+      - "\u785D\u57FA"
+      - "\u52A0\u901F"
+      - NITRO
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: NOT ENOUGH GOLD
+      TermType: 0
+      Description: 
+      Languages:
+      - 'NOT ENOUGH GOLD '
+      - "KH\xD4NG \u0110\u1EE6 V\xC0NG"
+      - "\uCDA9\uBD84\uD558\uC9C0 \uC54A\uC740 \uAE08"
+      - "\u91D1\u304C\u8DB3\u308A\u306A\u3044"
+      - "\u092A\u0930\u094D\u092F\u093E\u092A\u094D\u0924 \u0938\u094D\u0935\u0930\u094D\u0923
+        \u0928\u0939\u0940\u0902"
+      - "OURO N\xC3O SUFICIENTE"
+      - TIDAK CUKUP EMAS
+      - "\u041D\u0415 \u0414\u041E\u0421\u0422\u0410\u0422\u041E\u0427\u041D\u041E
+        \u0417\u041E\u041B\u041E\u0422\u0410"
+      - "\u0E44\u0E21\u0E48\u0E1E\u0E2D\u0E17\u0E2D\u0E07"
+      - "\u0644\u0627 \u064A\u0643\u0641\u064A \u0627\u0644\u0630\u0647\u0628"
+      - NICHT GENUG GOLD
+      - "\u9EC4\u91D1\u4E0D\u591F"
+      - "\u9EC3\u91D1\u4E0D\u5920"
+      - NO SUFICIENTE ORO
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: NOTIFICATION
+      TermType: 0
+      Description: 
+      Languages:
+      - NOTIFICATION
+      - "TH\xD4NG B\xC1O"
+      - "\uACF5\uC9C0"
+      - "\u304A\u77E5\u3089\u305B"
+      - "\u0928\u094B\u091F\u093F\u0938"
+      - AVISO
+      - PEMBERITAHUAN
+      - "\u0423\u0412\u0415\u0414\u041E\u041C\u041B\u0415\u041D\u0418\u0415"
+      - "\u0E02\u0E49\u0E2D\u0E2A\u0E31\u0E07\u0E40\u0E01\u0E15"
+      - "\u0627\u0644\u0625\u062E\u0637\u0627\u0631"
+      - HINWEIS
+      - "\u901A\u77E5\u4E8B\u9879"
+      - "\u6CE8\u610F\u4E8B\u9805"
+      - NOTIFICACION
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: Current
+      TermType: 0
+      Description: 
+      Languages:
+      - Current
+      - "Hi\u1EC7n t\u1EA1i"
+      - "\uD604\uC7AC"
+      - "\u73FE\u6642\u70B9\u3067\u306F"
+      - "\u092B\u093F\u0932\u0939\u093E\u0932"
+      - No momento
+      - Saat ini
+      - "\u041D\u0430 \u0434\u0430\u043D\u043D\u044B\u0439 \u043C\u043E\u043C\u0435\u043D\u0442"
+      - "\u0E43\u0E19\u0E02\u0E13\u0E30\u0E19\u0E35\u0E49"
+      - "\u0627\u0644\u062D\u0627\u0644\u064A"
+      - Im Moment
+      - "\u73B0\u65F6"
+      - "\u6B64\u523B"
+      - Actual
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: Need
+      TermType: 0
+      Description: 
+      Languages:
+      - Need
+      - "C\u1EA7n th\xEAm"
+      - "\uB354 \uD544\uC694"
+      - "\u3082\u3063\u3068\u5FC5\u8981"
+      - "\u0914\u0930 \u091A\u093E\u0939\u093F\u090F"
+      - Precisa de mais
+      - Butuh lebih
+      - "\u041D\u0443\u0436\u043D\u043E \u0431\u043E\u043B\u044C\u0448\u0435"
+      - "\u0E15\u0E49\u0E2D\u0E07\u0E01\u0E32\u0E23\u0E21\u0E32\u0E01\u0E02\u0E36\u0E49\u0E19"
+      - "\u062A\u062D\u062A\u0627\u062C"
+      - "Ben\xF6tigen Sie mehr"
+      - "\u9700\u8981"
+      - "\u9700\u8981\u66F4\u591A"
+      - Necesita
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: Previewing
+      TermType: 0
+      Description: 
+      Languages:
+      - Previewing
+      - Xem
+      - "\uCC38\uC870"
+      - "\u898B\u308B"
+      - "\u0926\u0947\u0916\u0928\u093E"
+      - Veja
+      - Lihat
+      - "\u0443\u0432\u0438\u0434\u0435\u0442\u044C"
+      - "\u0E14\u0E39"
+      - "\u0645\u0639\u0627\u064A\u0646\u0629"
+      - Siehe
+      - "\u9884\u89C8\u7248"
+      - "\u898B"
+      - Vista previa
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: Equipped
+      TermType: 0
+      Description: 
+      Languages:
+      - Equipped
+      - "\u0110\xE3 m\u1EB7c"
+      - "\uCC29\uC6A9"
+      - "\u7740\u7528"
+      - "\u092A\u0939\u0928\u0940 \u0925\u0940"
+      - Desgastado
+      - Usang
+      - "\u043D\u043E\u0441\u0438\u043B"
+      - "\u0E2A\u0E27\u0E21"
+      - "\u0645\u062C\u0647\u0632\u0629"
+      - Getragen
+      - "\u914D\u5907"
+      - "\u7834\u820A"
+      - Equipado
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: UNLOCK
+      TermType: 0
+      Description: 
+      Languages:
+      - UNLOCK
+      - "M\u1EDE KH\xD3A"
+      - "\uC7A0\uAE08 \uD574\uC81C"
+      - "\u30ED\u30C3\u30AF\u89E3\u9664"
+      - "\u0916\u0941\u0932\u093E"
+      - DESBLOQUEAR
+      - UNLOCK
+      - UNLOCKED
+      - "\u0E1B\u0E25\u0E14"
+      - "\u0641\u062A\u062D"
+      - ENTSPERREN
+      - "\u89E3\u9501"
+      - "\u89E3\u9396"
+      - DESBLOQUEO
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: ROLL NOW
+      TermType: 0
+      Description: 
+      Languages:
+      - ROLL NOW
+      - "L\u1EAEC NGAY"
+      - "\uC9C0\uAE08 \uC250\uC774\uD06C"
+      - "\u4ECA\u3059\u3050\u30B7\u30A7\u30A4\u30AF"
+      - "\u0905\u092C \u0926\u093F\u0916\u093E\u0913"
+      - AGITE AGORA
+      - BANGKIT SEKARANG
+      - "\u0412\u0417\u042F\u0422\u042C \u0421\u0415\u0419\u0427\u0410\u0421"
+      - "\u0E40\u0E02\u0E22\u0E48\u0E32\u0E15\u0E2D\u0E19\u0E19\u0E35\u0E49"
+      - "\u0644\u0641 \u0627\u0644\u0622\u0646"
+      - "JETZT SCH\xDCTTELN"
+      - "\u73B0\u5728\u6EDA\u52A8"
+      - "\u7ACB\u5373\u6416\u52D5"
+      - ROLLO AHORA
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: Common Items
+      TermType: 0
+      Description: 
+      Languages:
+      - Common Items
+      - "V\u1EADt ph\u1EA9m ph\u1ED5 bi\u1EBFn"
+      - "\uC778\uAE30 \uC0C1\uD488"
+      - "\u4EBA\u6C17\u5546\u54C1"
+      - "\u0932\u094B\u0915\u092A\u094D\u0930\u093F\u092F \u0906\u0907\u091F\u092E"
+      - Itens populares
+      - Barang-barang populer
+      - "\u041F\u043E\u043F\u0443\u043B\u044F\u0440\u043D\u044B\u0435 \u0442\u043E\u0432\u0430\u0440\u044B"
+      - "\u0E23\u0E32\u0E22\u0E01\u0E32\u0E23\u0E22\u0E2D\u0E14\u0E19\u0E34\u0E22\u0E21"
+      - "\u0627\u0644\u0639\u0646\u0627\u0635\u0631 \u0627\u0644\u0634\u0627\u0626\u0639\u0629"
+      - Beliebte Artikel
+      - "\u666E\u901A\u7269\u54C1"
+      - "\u4EBA\u6C23\u5546\u54C1"
+      - "Art\xEDculos comunes"
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: Uncommon Items
+      TermType: 0
+      Description: 
+      Languages:
+      - Uncommon Items
+      - "V\u1EADt ph\u1EA9m kh\xF4ng ph\u1ED5 bi\u1EBFn"
+      - "\uC778\uAE30\uC5C6\uB294 \uC0C1\uD488"
+      - "\u4EBA\u6C17\u306E\u306A\u3044\u30A2\u30A4\u30C6\u30E0"
+      - "\u0906\u0907\u091F\u092E \u0932\u094B\u0915\u092A\u094D\u0930\u093F\u092F
+        \u0928\u0939\u0940\u0902 \u0939\u0948\u0902"
+      - "Itens n\xE3o populares"
+      - Item tidak populer
+      - "\u041F\u0440\u0435\u0434\u043C\u0435\u0442\u044B \u043D\u0435 \u043F\u043E\u043F\u0443\u043B\u044F\u0440\u043D\u044B\u0435"
+      - "\u0E23\u0E32\u0E22\u0E01\u0E32\u0E23\u0E17\u0E35\u0E48\u0E44\u0E21\u0E48\u0E40\u0E1B\u0E47\u0E19\u0E17\u0E35\u0E48\u0E19\u0E34\u0E22\u0E21"
+      - "\u0639\u0646\u0627\u0635\u0631 \u063A\u064A\u0631 \u0634\u0627\u0626\u0639\u0629"
+      - Artikel nicht beliebt
+      - "\u7F55\u89C1\u7269\u54C1"
+      - "\u4E0D\u53D7\u6B61\u8FCE\u7684\u5546\u54C1"
+      - "Art\xEDculos poco comunes"
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: Rare Items
+      TermType: 0
+      Description: 
+      Languages:
+      - Rare Items
+      - "V\u1EADt ph\u1EA9m hi\u1EBFm"
+      - "\uD76C\uADC0 \uD488\uBAA9"
+      - "\u30EC\u30A2\u30A2\u30A4\u30C6\u30E0"
+      - "\u0926\u0941\u0930\u094D\u0932\u092D \u0935\u0938\u094D\u0924\u0941\u090F\u0902"
+      - Itens raros
+      - Barang langka
+      - "\u0420\u0435\u0434\u043A\u0438\u0435 \u043F\u0440\u0435\u0434\u043C\u0435\u0442\u044B"
+      - "\u0E23\u0E32\u0E22\u0E01\u0E32\u0E23\u0E17\u0E35\u0E48\u0E2B\u0E32\u0E22\u0E32\u0E01"
+      - "\u0627\u0644\u0639\u0646\u0627\u0635\u0631 \u0627\u0644\u0646\u0627\u062F\u0631\u0629"
+      - "Seltene Gegenst\xE4nde"
+      - "\u7A00\u6709\u7269\u54C1"
+      - "\u7A00\u6709\u7269\u54C1"
+      - "Art\xEDculos raros"
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: Epic Items
+      TermType: 0
+      Description: 
+      Languages:
+      - Epic Items
+      - "V\u1EADt ph\u1EA9m s\u1EED thi"
+      - "\uC5D0\uD53D \uC544\uC774\uD15C"
+      - "\u58EE\u5927\u306A\u30A2\u30A4\u30C6\u30E0"
+      - "\u092E\u0939\u093E\u0915\u093E\u0935\u094D\u092F \u0906\u0907\u091F\u092E"
+      - "Itens \xE9picos"
+      - Item epik
+      - "\u042D\u043F\u0438\u0447\u0435\u0441\u043A\u0438\u0435 \u043F\u0440\u0435\u0434\u043C\u0435\u0442\u044B"
+      - "\u0E23\u0E32\u0E22\u0E01\u0E32\u0E23\u0E21\u0E2B\u0E32\u0E01\u0E32\u0E1E\u0E22\u0E4C"
+      - "\u0639\u0646\u0627\u0635\u0631 \u0645\u0644\u062D\u0645\u064A\u0629"
+      - "Epische Gegenst\xE4nde"
+      - "\u53F2\u8BD7\u7269\u54C1"
+      - "\u53F2\u8A69\u7269\u54C1"
+      - "Art\xEDculos \xE9picos"
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: Legendery Items
+      TermType: 0
+      Description: 
+      Languages:
+      - Legendery Items
+      - "V\u1EADt ph\u1EA9m huy\u1EC1n tho\u1EA1i"
+      - "\uC804\uC124\uC801\uC778 \uC544\uC774\uD15C"
+      - "\u4F1D\u8AAC\u306E\u30A2\u30A4\u30C6\u30E0"
+      - "\u092A\u094C\u0930\u093E\u0923\u093F\u0915 \u0935\u0938\u094D\u0924\u0941\u090F\u0902"
+      - "Itens lend\xE1rios"
+      - Barang legendaris
+      - "\u041B\u0435\u0433\u0435\u043D\u0434\u0430\u0440\u043D\u044B\u0435 \u043F\u0440\u0435\u0434\u043C\u0435\u0442\u044B"
+      - "\u0E23\u0E32\u0E22\u0E01\u0E32\u0E23\u0E43\u0E19\u0E15\u0E33\u0E19\u0E32\u0E19"
+      - "\u0639\u0646\u0627\u0635\u0631 \u0627\u0644\u0623\u0633\u0637\u0648\u0631\u0629"
+      - "Legend\xE4re Gegenst\xE4nde"
+      - "\u4F20\u5947\u7269\u54C1"
+      - "\u50B3\u5947\u7269\u54C1"
+      - "Art\xEDculos legendarios"
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: Lap
+      TermType: 0
+      Description: 
+      Languages:
+      - Lap
+      - "V\xF2ng \u0111ua"
+      - "\uB7A9 \uB808\uC774\uC2A4"
+      - "\u30E9\u30C3\u30D7\u30EC\u30FC\u30B9"
+      - "\u0917\u094B\u0926 \u0915\u0940 \u0926\u094C\u0921\u093C"
+      - Corrida de volta
+      - Balapan pangkuan
+      - "\u0413\u043E\u043D\u043A\u0430 \u043D\u0430 \u043A\u043E\u043B\u0435\u043D\u044F\u0445"
+      - "\u0E01\u0E32\u0E23\u0E41\u0E02\u0E48\u0E07\u0E02\u0E31\u0E19\u0E23\u0E2D\u0E1A\u0E25\u0E32\u0E1A"
+      - "\u062D\u0636\u0646"
+      - Rundenrennen
+      - "\u642D\u63A5"
+      - "\u55AE\u5708\u6BD4\u8CFD"
+      - Vuelta
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: You
+      TermType: 0
+      Description: 
+      Languages:
+      - You
+      - "B\u1EA1n"
+      - "\uB2F9\uC2E0"
+      - "\u3042\u306A\u305F"
+      - "\u0906\u092A"
+      - "Voc\xEA"
+      - Kamu
+      - "\u0432\u044B"
+      - "\u0E04\u0E38\u0E13"
+      - "\u0623\u0646\u062A"
+      - Sie
+      - "\u4F60"
+      - "\u4F60"
+      - Usted
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: Kill
+      TermType: 0
+      Description: 
+      Languages:
+      - Kill
+      - "Gi\u1EBFt"
+      - "\uC8FD\uC774\uAE30"
+      - "\u6BBA\u3059"
+      - "\u092E\u093E\u0930"
+      - Matar
+      - Bunuh
+      - "\u0443\u0431\u0438\u0442\u044C"
+      - "\u0E06\u0E48\u0E32"
+      - "\u0627\u0642\u062A\u0644"
+      - "T\xF6te"
+      - "\u6740\u6B7B"
+      - "\u6BBA\u6B7B"
+      - Matar
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: Alive
+      TermType: 0
+      Description: 
+      Languages:
+      - Alive
+      - "C\xF2n s\u1ED1ng"
+      - "\uC0B4\uC544\uC788\uB2E4"
+      - "\u751F\u304D\u3066\u3044\u308B"
+      - "\u091C\u0940\u0935\u093F\u0924"
+      - Vivo
+      - Hidup
+      - "\u0436\u0438\u0432\u043E\u0439"
+      - "\u0E21\u0E35\u0E0A\u0E35\u0E27\u0E34\u0E15\u0E2D\u0E22\u0E39\u0E48"
+      - "\u0639\u0644\u0649 \u0642\u064A\u062F \u0627\u0644\u062D\u064A\u0627\u0629"
+      - Lebendig
+      - "\u6D3B\u7740"
+      - "\u6D3B\u8457"
+      - Vivo
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: WARNING
+      TermType: 0
+      Description: 
+      Languages:
+      - WARNING !!!
+      - "C\u1EA2NH B\xC1O !!!"
+      - "\uACBD\uACE0"
+      - "\u8B66\u544A"
+      - "\u091A\u0947\u0924\u093E\u0935\u0928\u0940"
+      - "ATEN\xC7\xC3O"
+      - PERINGATAN
+      - "\u0412\u041D\u0418\u041C\u0410\u041D\u0418\u0415!"
+      - "\u0E04\u0E33\u0E40\u0E15\u0E37\u0E2D\u0E19"
+      - "\u062A\u062D\u0630\u064A\u0631"
+      - WARNUNG
+      - "\u8B66\u544A"
+      - "\u8B66\u544A"
+      - ADVERTENCIA
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: BOSS
+      TermType: 0
+      Description: 
+      Languages:
+      - BOSS
+      - "TR\xD9M CU\u1ED0I"
+      - "\uBCF4\uC2A4"
+      - "\u30DC\u30B9"
+      - "\u092C\u0949\u0938"
+      - CHEFE
+      - BOSS
+      - BOSS
+      - BOSS
+      - "\u0628\u0648\u0633"
+      - BOSS
+      - "\u8001\u677F"
+      - "\u8001\u95C6"
+      - Jefe
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: RETRY
+      TermType: 0
+      Description: 
+      Languages:
+      - RETRY
+      - "CH\u01A0I L\u1EA0I"
+      - "\uB2E4\uC2DC \uD50C\uB808\uC774"
+      - "\u3082\u3046\u4E00\u5EA6\u30D7\u30EC\u30A4"
+      - "\u092B\u093F\u0930 \u0938\u0947 \u0916\u0947\u0932\u0947\u0902"
+      - JOGUE DE NOVO
+      - MAIN LAGI
+      - "\u0418\u0413\u0420\u0410\u0422\u042C \u0421\u041D\u041E\u0412\u0410"
+      - "\u0E40\u0E25\u0E48\u0E19\u0E2D\u0E35\u0E01\u0E04\u0E23\u0E31\u0E49\u0E07"
+      - "\u0625\u0639\u0627\u062F\u0629 \u0627\u0644\u0645\u062D\u0627\u0648\u0644\u0629"
+      - WIEDER SPIELEN
+      - "\u91CD\u8BD5"
+      - "\u518D\u73A9\u4E00\u6B21"
+      - REINTENTAR
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: Champion
+      TermType: 0
+      Description: 
+      Languages:
+      - Champion
+      - "V\u1EC1 th\u1EE9 1"
+      - "1 \uC77C"
+      - "1\u65E5"
+      - "1 \u092A\u0930"
+      - No dia 1
+      - Pada tanggal 1
+      - "\u041D\u0430 1-\u043C"
+      - "\u0E43\u0E19\u0E27\u0E31\u0E19\u0E17\u0E35\u0E48 1"
+      - "\u0628\u0637\u0644"
+      - Am 1 ..
+      - "\u51A0\u519B"
+      - "\u4E00\u865F"
+      - Campeon
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: Kill all enemys
+      TermType: 0
+      Description: 
+      Languages:
+      - Kill all enemies
+      - "Gi\u1EBFt t\u1EA5t c\u1EA3 k\u1EBB \u0111\u1ECBch "
+      - "\uBAA8\uB4E0 \uC801\uC744 \uCC98\uCE58\uD558\uC2ED\uC2DC\uC624"
+      - "\u3059\u3079\u3066\u306E\u6575\u3092\u6BBA\u3059"
+      - "\u0938\u092D\u0940 \u0926\u0941\u0936\u094D\u092E\u0928\u094B\u0902 \u0915\u094B
+        \u092E\u093E\u0930 \u0921\u093E\u0932\u094B"
+      - Mate todos os inimigos
+      - Bunuh semua musuh
+      - "\u0423\u0431\u0438\u0442\u044C \u0432\u0441\u0435\u0445 \u0432\u0440\u0430\u0433\u043E\u0432"
+      - "\u0E06\u0E48\u0E32\u0E28\u0E31\u0E15\u0E23\u0E39\u0E17\u0E31\u0E49\u0E07\u0E2B\u0E21\u0E14"
+      - "\u0627\u0642\u062A\u0644 \u062C\u0645\u064A\u0639 \u0627\u0644\u0623\u0639\u062F\u0627\u0621"
+      - "T\xF6te alle Feinde"
+      - "\u6740\u6B7B\u6240\u6709\u654C\u4EBA"
+      - "\u6BBA\u6B7B\u6240\u6709\u6575\u4EBA"
+      - Mata a todos los enemigos
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: REWARDS
+      TermType: 0
+      Description: 
+      Languages:
+      - REWARDS
+      - "NH\u1EACN TH\u01AF\u1EDENG"
+      - "\uBCF4\uC0C1 \uBC1B\uAE30"
+      - "\u5831\u916C\u3092\u5F97\u308B"
+      - "\u092A\u0941\u0930\u0938\u094D\u0915\u093E\u0930 \u092A\u094D\u0930\u093E\u092A\u094D\u0924
+        \u0915\u0930\u0947\u0902"
+      - OBTER RECOMPENSAS
+      - DAPATKAN HADIAH
+      - "\u041F\u041E\u041B\u0423\u0427\u0418\u0422\u042C \u041D\u0410\u0413\u0420\u0410\u0414\u042B"
+      - "\u0E23\u0E31\u0E1A\u0E23\u0E32\u0E07\u0E27\u0E31\u0E25"
+      - "\u0627\u0644\u0645\u0643\u0627\u0641\u0622\u062A"
+      - ERHALTEN SIE BELOHNUNGEN
+      - "\u5956\u8D4F"
+      - "\u7372\u5F97\u734E\u52F5"
+      - PREMIOS
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: STAR
+      TermType: 0
+      Description: 
+      Languages:
+      - STAR
+      - "NG\xD4I SAO"
+      - "\uBCC4"
+      - STAR
+      - "\u0938\u094D\u091F\u093E\u0930"
+      - STAR
+      - BINTANG
+      - "\u0421\u0422\u0410\u0420"
+      - STAR
+      - STAR
+      - STERN
+      - "\u661F"
+      - "\u661F"
+      - ESTRELLA
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: TIP
+      TermType: 0
+      Description: 
+      Languages:
+      - 'TIP:'
+      - "G\u1EE2I \xDD:"
+      - "\uD78C\uD2B8"
+      - "\u30D2\u30F3\u30C8"
+      - "\u0938\u0902\u0915\u0947\u0924"
+      - DICA
+      - PETUNJUK
+      - HINTS
+      - "\u0E02\u0E49\u0E2D\u0E40\u0E2A\u0E19\u0E2D\u0E41\u0E19\u0E30"
+      - "\u0646\u0635\u064A\u062D\u0629"
+      - TIPP
+      - "\u63D0\u793A"
+      - "\u63D0\u793A"
+      - CONSEJO
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: Upgrade ATK to increase damage
+      TermType: 0
+      Description: 
+      Languages:
+      - Upgrade ATK to increase damage
+      - "N\xE2ng c\u1EA5p T\u1EA4N C\xD4NG \u0111\u1EC3 t\u0103ng s\xE1t th\u01B0\u01A1ng"
+      - "\uACF5\uACA9\uB825\uC744 \uC5C5\uADF8\uB808\uC774\uB4DC\uD558\uC5EC \uB370\uBBF8\uC9C0
+        \uC99D\uAC00"
+      - "\u653B\u6483\u3092\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9\u3057\u3066\u30C0\u30E1\u30FC\u30B8\u3092\u5897\u52A0\u3055\u305B\u308B"
+      - "\u0928\u0941\u0915\u0938\u093E\u0928 \u0915\u094B \u092C\u0922\u093C\u093E\u0928\u0947
+        \u0915\u0947 \u0932\u093F\u090F ATTACK \u0915\u094B \u0905\u092A\u0917\u094D\u0930\u0947\u0921
+        \u0915\u0930\u0947\u0902"
+      - Atualize ATTACK para aumentar o dano
+      - Tingkatkan SERANGAN untuk meningkatkan kerusakan
+      - "\u0423\u043B\u0443\u0447\u0448\u0438\u0442\u0435 \u0410\u0422\u0410\u041A\u0423,
+        \u0447\u0442\u043E\u0431\u044B \u0443\u0432\u0435\u043B\u0438\u0447\u0438\u0442\u044C
+        \u0443\u0440\u043E\u043D"
+      - "\u0E2D\u0E31\u0E1E\u0E40\u0E01\u0E23\u0E14 ATTACK \u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E40\u0E1E\u0E34\u0E48\u0E21\u0E04\u0E27\u0E32\u0E21\u0E40\u0E2A\u0E35\u0E22\u0E2B\u0E32\u0E22"
+      - "\u062A\u0631\u0642\u064A\u0629 \u0627\u0644\u0647\u062C\u0648\u0645 \u0644\u0632\u064A\u0627\u062F\u0629
+        \u0627\u0644\u0636\u0631\u0631"
+      - "Verbessere ATTACK, um den Schaden zu erh\xF6hen"
+      - "\u5347\u7EA7\u653B\u51FB\u529B\u4EE5\u589E\u52A0\u4F24\u5BB3"
+      - "\u5347\u7D1A\u653B\u64CA\u4EE5\u589E\u52A0\u50B7\u5BB3"
+      - "Mejora el ATK para aumentar el da\xF1o"
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: VIDEO REWARD
+      TermType: 0
+      Description: 
+      Languages:
+      - VIDEO REWARD
+      - "TH\u01AF\u1EDENG VIDEO"
+      - "\uBE44\uB514\uC624 \uB9AC\uC6CC\uB4DC"
+      - "\u30D3\u30C7\u30AA\u30EA\u30EF\u30FC\u30C9"
+      - "\u0935\u0940\u0921\u093F\u092F\u094B \u0930\u093F\u092A\u094B\u0930\u094D\u091F"
+      - "RECOMPENSAS DE V\xCDDEO"
+      - HADIAH VIDEO
+      - "\u0412\u0418\u0414\u0415\u041E \u041D\u0410\u0413\u0420\u0410\u0414\u042B"
+      - "\u0E27\u0E34\u0E14\u0E35\u0E42\u0E2D\u0E15\u0E2D\u0E1A\u0E41\u0E17\u0E19"
+      - "\u0645\u0643\u0627\u0641\u0623\u0629 \u0627\u0644\u0641\u064A\u062F\u064A\u0648"
+      - VIDEO BELOHNUNGEN
+      - "\u89C6\u9891\u5956\u52B1"
+      - "\u8996\u983B\u734E\u52F5"
+      - PREMIO DE VIDEO
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: CALM
+      TermType: 0
+      Description: 
+      Languages:
+      - CLAIM
+      - "NH\u1EACN"
+      - "\uBC1B\uAE30"
+      - "\u53D7\u4FE1\u3059\u308B"
+      - "\u091F\u0940\u0915\u093E"
+      - RECEBER
+      - MENERIMA
+      - "\u041A\u041E\u041C\u041C\u0415\u041D\u0422\u0410\u0420\u0418\u0419"
+      - COMMENTARY
+      - "\u0627\u0647\u062F\u0623"
+      - EMPFANGEN
+      - "\u5361\u5C14\u59C6"
+      - "\u63A5\u53D7"
+      - Calma
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: FREE EXCHANGE
+      TermType: 0
+      Description: 
+      Languages:
+      - FREE EXCHANGE
+      - "TRAO \u0110\u1ED4I MI\u1EC4N PH\xCD"
+      - "\uBB34\uB8CC \uAD50\uD658"
+      - "\u7121\u6599\u4EA4\u63DB"
+      - "\u0928\u093F\u0903\u0936\u0941\u0932\u094D\u0915 \u092E\u0941\u0915\u094D\u0924"
+      - TROCA GRATUITA
+      - PERTUKARAN GRATIS
+      - "\u0411\u0415\u0421\u041F\u041B\u0410\u0422\u041D\u042B\u0419 \u041E\u0411\u041C\u0415\u041D"
+      - "\u0E41\u0E25\u0E01\u0E40\u0E1B\u0E25\u0E35\u0E48\u0E22\u0E19\u0E1F\u0E23\u0E35"
+      - "\u062A\u0628\u0627\u062F\u0644 \u0645\u062C\u0627\u0646\u064A"
+      - KOSTENLOSER AUSTAUSCH
+      - "\u514D\u8D39\u4EA4\u6362"
+      - "\u514D\u8CBB\u4EA4\u63DB"
+      - INTERCAMBIO GRATUITO
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: NO
+      TermType: 0
+      Description: 
+      Languages:
+      - NO
+      - "KH\xD4NG"
+      - "\uC544\uB2C8\uC694"
+      - "\u3044\u3084"
+      - "\u0928\u0939\u0940\u0902"
+      - "N\xC3O"
+      - TIDAK
+      - "\u041D\u0415"
+      - "\u0E44\u0E21\u0E48"
+      - "\u0644\u0627"
+      - NEIN
+      - "\u5426"
+      - "\u5426"
+      - NO
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: YES
+      TermType: 0
+      Description: 
+      Languages:
+      - YES
+      - "C\xD3"
+      - "\uC608"
+      - "\u306F\u3044"
+      - "\u0939\u093E\u0901"
+      - Sim
+      - Ya
+      - "\u0414\u0410"
+      - "\u0E43\u0E0A\u0E48"
+      - "\u0646\u0639\u0645"
+      - JA
+      - "\u662F\u7684"
+      - "\u662F\u7684"
+      - Si
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: DAILY GIFT
+      TermType: 0
+      Description: 
+      Languages:
+      - DAILY GIFT
+      - "QU\xC0 TH\u01AF\u1EDENG H\u1EB0NG NG\xC0Y"
+      - "\uB370\uC77C\uB9AC \uBCF4\uB108\uC2A4 \uC120\uBB3C"
+      - "\u30C7\u30A4\u30EA\u30FC\u30DC\u30FC\u30CA\u30B9\u30AE\u30D5\u30C8"
+      - "\u0926\u0948\u0928\u093F\u0915 \u092C\u094B\u0928\u0938 \u0909\u092A\u0939\u093E\u0930"
+      - "PRESENTES DI\xC1RIOS DE B\xD4NUS"
+      - HADIAH BONUS HARIAN
+      - "\u0415\u0416\u0415\u0414\u041D\u0415\u0412\u041D\u042B\u0415 \u0411\u041E\u041D\u0423\u0421\u041D\u042B\u0415
+        \u041F\u041E\u0414\u0410\u0420\u041A\u0418"
+      - "\u0E42\u0E1A\u0E19\u0E31\u0E2A\u0E23\u0E32\u0E22\u0E27\u0E31\u0E19"
+      - "\u0647\u062F\u064A\u0629 \u064A\u0648\u0645\u064A\u0629"
+      - "T\xC4GLICHE BONUSGESCHENKE"
+      - "\u6BCF\u65E5\u793C\u7269"
+      - "\u6BCF\u65E5\u8D08\u79AE"
+      - REGALO DIARIO
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: DAY 1
+      TermType: 0
+      Description: 
+      Languages:
+      - DAY 1
+      - "NG\xC0Y 1"
+      - "1 \uC77C\uC9F8"
+      - "1\u65E5\u76EE"
+      - "\u0926\u093F\u0928 \u0967"
+      - DIA 1
+      - HARI 1
+      - "1 \u0434\u0435\u043D\u044C"
+      - "\u0E27\u0E31\u0E19\u0E17\u0E35\u0E48 1"
+      - "\u0627\u0644\u064A\u0648\u0645 \u0627\u0644\u0623\u0648\u0644"
+      - TAG 1
+      - "\u7B2C\u4E00\u5929"
+      - "\u7B2C\u4E00\u5929"
+      - DIA 1
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: DAY 2
+      TermType: 0
+      Description: 
+      Languages:
+      - DAY 2
+      - "NG\xC0Y 2"
+      - "2 \uC77C\uC9F8"
+      - "2\u65E5\u76EE"
+      - "\u0926\u093F\u0928 \u0968"
+      - DIA 2
+      - HARI 2
+      - "\u0414\u0415\u041D\u042C 2"
+      - "\u0E27\u0E31\u0E19\u0E17\u0E35\u0E48 2"
+      - "\u0627\u0644\u064A\u0648\u0645 2"
+      - TAG 2
+      - "\u7B2C\u4E8C\u5929"
+      - "\u7B2C\u4E8C\u5929"
+      - DIA 2
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: DAY 3
+      TermType: 0
+      Description: 
+      Languages:
+      - DAY 3
+      - "NG\xC0Y 3"
+      - "3 \uC77C\uC9F8"
+      - "3\u65E5\u76EE"
+      - "\u0926\u093F\u0928 \u0969"
+      - DIA 3
+      - HARI 3
+      - "3 \u0434\u0435\u043D\u044C"
+      - "\u0E27\u0E31\u0E19\u0E17\u0E35\u0E48 3"
+      - "\u0627\u0644\u064A\u0648\u0645 3"
+      - TAG 3
+      - "\u7B2C\u4E09\u5929"
+      - "\u7B2C\u4E09\u5929"
+      - DIA 3
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: DAY 4
+      TermType: 0
+      Description: 
+      Languages:
+      - DAY 4
+      - "NG\xC0Y 4"
+      - "4 \uC77C\uC9F8"
+      - "4\u65E5\u76EE"
+      - "\u0926\u093F\u0928 \u096A"
+      - DIA 4
+      - HARI 4
+      - "4 \u0434\u0435\u043D\u044C"
+      - "\u0E27\u0E31\u0E19\u0E17\u0E35\u0E48 4"
+      - "\u0627\u0644\u064A\u0648\u0645 4"
+      - TAG 4
+      - "\u7B2C\u56DB\u5929"
+      - "\u7B2C\u56DB\u5929"
+      - DIA 4
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: DAY 5
+      TermType: 0
+      Description: 
+      Languages:
+      - DAY 5
+      - "NG\xC0Y 5"
+      - "5 \uC77C\uC9F8"
+      - "5\u65E5\u76EE"
+      - "\u0926\u093F\u0928 \u096B"
+      - DIA 5
+      - HARI 5
+      - "5 \u0434\u0435\u043D\u044C"
+      - "\u0E27\u0E31\u0E19\u0E17\u0E35\u0E48 5"
+      - "\u0627\u0644\u064A\u0648\u0645 5"
+      - TAG 5
+      - "\u7B2C\u4E94\u5929"
+      - "\u7B2C\u4E94\u5929"
+      - DIA 5
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: DAY 6
+      TermType: 0
+      Description: 
+      Languages:
+      - DAY 6
+      - "NG\xC0Y 6"
+      - "6 \uC77C\uC9F8"
+      - "6\u65E5\u76EE"
+      - DAY 6
+      - DIA 6
+      - HARI 6
+      - "\u0414\u0415\u041D\u042C 6"
+      - "\u0E27\u0E31\u0E19\u0E17\u0E35\u0E48 6"
+      - "\u0627\u0644\u064A\u0648\u0645 6"
+      - TAG 6
+      - "\u7B2C\u516D\u5929"
+      - "\u7B2C\u516D\u5929"
+      - DIA 6
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: DAY 7
+      TermType: 0
+      Description: 
+      Languages:
+      - DAY 7
+      - "NG\xC0Y 7"
+      - "7 \uC77C\uC9F8"
+      - "7\u65E5\u76EE"
+      - "\u0926\u093F\u0928 7"
+      - DIA 7
+      - HARI 7
+      - "\u0414\u0415\u041D\u042C 7"
+      - "\u0E27\u0E31\u0E19\u0E17\u0E35\u0E48 7"
+      - "\u0627\u0644\u064A\u0648\u0645 7"
+      - TAG 7
+      - "\u7B2C\u4E03\u5929"
+      - "\u7B2C\u4E03\u5929"
+      - DIA 7
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: SKIN
+      TermType: 0
+      Description: 
+      Languages:
+      - SKIN
+      - "TRANG PH\u1EE4C"
+      - "\uC758\uC0C1"
+      - "\u8863\u88C5"
+      - "\u0915\u092A\u0921\u093C\u0947"
+      - TRAJE
+      - KOSTUM
+      - "\u041E\u0414\u0415\u0416\u0414\u0410"
+      - "\u0E40\u0E2A\u0E37\u0E49\u0E2D\u0E1C\u0E49\u0E32"
+      - "\u0628\u0634\u0631\u0629"
+      - "KOST\xDCM"
+      - "\u76AE\u80A4"
+      - "\u670D\u88DD"
+      - PIEL
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: WHEELS
+      TermType: 0
+      Description: 
+      Languages:
+      - WHEELS
+      - "B\xC1NH XE"
+      - "\uD720"
+      - "\u30DB\u30A4\u30FC\u30EB"
+      - "\u092A\u0939\u093F\u092F\u093E"
+      - RODA
+      - RODA
+      - "\u041A\u041E\u041B\u0415\u0421\u041E"
+      - WHEEL
+      - "\u0627\u0644\u0639\u062C\u0644\u0627\u062A"
+      - RAD
+      - "\u8F6E\u5708"
+      - "\u8ECA\u8F2A"
+      - RUEDAS
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: BIGSALE
+      TermType: 0
+      Description: 
+      Languages:
+      - BIGSALE
+      - "KHUY\u1EBEN M\xC3I L\u1EDAN"
+      - "\uD070 \uC2B9\uC9C4"
+      - "\u30D3\u30C3\u30B0\u30D7\u30ED\u30E2\u30FC\u30B7\u30E7\u30F3"
+      - "\u092C\u0921\u093C\u0940 \u092A\u0926\u094B\u0928\u094D\u0928\u0924\u093F"
+      - "GRANDE PROMO\xC7\xC3O"
+      - PROMOSI BESAR
+      - "\u0411\u041E\u041B\u042C\u0428\u0410\u042F \u041F\u0420\u041E\u0414\u0412\u0418\u0416\u0415\u041D\u0418\u0415"
+      - "\u0E42\u0E1B\u0E23\u0E42\u0E21\u0E0A\u0E31\u0E48\u0E19\u0E43\u0E2B\u0E0D\u0E48"
+      - BIGSALE
+      - GROSSE PROMOTION
+      - "\u5927\u6279"
+      - "\u5927\u4FC3\u92B7"
+      - GRANDE
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: DIAMOND OFFER
+      TermType: 0
+      Description: 
+      Languages:
+      - DIAMOND OFFER
+      - "G\xD3I KIM C\u01AF\u01A0NG"
+      - "\uB2E4\uC774\uC544\uBAAC\uB4DC \uD328\uD0A4\uC9C0"
+      - "\u30C0\u30A4\u30E4\u30E2\u30F3\u30C9\u30D1\u30C3\u30B1\u30FC\u30B8"
+      - "\u0939\u0940\u0930\u093E \u092A\u0948\u0915\u0947\u091C"
+      - PACOTE DIAMANTE
+      - PAKET DIAMOND
+      - "\u0410\u041B\u041C\u0410\u0417\u041D\u042B\u0419 \u041F\u0410\u041A\u0415\u0422"
+      - "\u0E41\u0E1E\u0E47\u0E04\u0E40\u0E01\u0E08 DIAMOND"
+      - "\u0639\u0631\u0636 \u0627\u0644\u0645\u0627\u0633"
+      - DIAMANTPAKET
+      - "\u94BB\u77F3\u4F18\u60E0"
+      - "\u947D\u77F3\u5305\u88DD"
+      - OFERTA DIAMANTE
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: START OFFER
+      TermType: 0
+      Description: 
+      Languages:
+      - START OFFER
+      - "G\xD3I T\xC2N TH\u1EE6"
+      - "\uD504\uB77C\uC784 \uD328\uD0A4\uC9C0"
+      - "\u30D7\u30E9\u30A4\u30E0\u30D1\u30C3\u30B1\u30FC\u30B8"
+      - "\u0938\u092E\u092F \u092A\u0948\u0915\u0947\u091C"
+      - PACOTE PRIME
+      - PAKET PRIME
+      - "\u041F\u0420\u0415\u041C\u042C\u0415\u0420-\u041F\u0410\u041A\u0415\u0422"
+      - "\u0E41\u0E1E\u0E47\u0E04\u0E40\u0E01\u0E08\u0E2A\u0E38\u0E14\u0E04\u0E38\u0E49\u0E21"
+      - "\u0627\u0628\u062F\u0623 \u0627\u0644\u0639\u0631\u0636"
+      - PRIME-PAKET
+      - "\u5F00\u59CB\u53D1\u552E"
+      - "\u7E3D\u7406\u5957\u9910"
+      - COMIENZA LA OFERTA
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: FIGHT
+      TermType: 0
+      Description: 
+      Languages:
+      - FIGHT
+      - "CHI\u1EBEN"
+      - "\uC2F8\uC6C0"
+      - "\u30D5\u30A1\u30A4\u30C8"
+      - "\u0932\u0921\u093C\u093E\u0908"
+      - LUTA
+      - PERANG
+      - "\u0411\u041E\u0420\u042C\u0411\u0410"
+      - "\u0E01\u0E32\u0E23\u0E15\u0E48\u0E2D\u0E2A\u0E39\u0E49"
+      - FIGHT
+      - "K\xC4MPFEN"
+      - "\u6218\u6597"
+      - "\u6230\u9B25"
+      - LUCHA
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: Brake
+      TermType: 0
+      Description: 
+      Languages:
+      - Brake
+      - Phanh
+      - "\uBE0C\uB808\uC774\uD06C"
+      - "\u30D6\u30EC\u30FC\u30AD"
+      - "\u092C\u094D\u0930\u0947\u0915"
+      - Freio
+      - Rem
+      - "\u0442\u043E\u0440\u043C\u043E\u0437"
+      - "\u0E40\u0E1A\u0E23\u0E01"
+      - Brake
+      - Bremse
+      - "\u715E\u8F66"
+      - "\u715E\u8ECA"
+      - Freno
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: +1 SKIN
+      TermType: 0
+      Description: 
+      Languages:
+      - ' +1 SKIN '
+      - " +1 TRANG PH\u1EE4C"
+      - "\_\uC758\uC0C1 +1"
+      - "\_+1 COSTUME"
+      - "\_+1 COSTUME"
+      - "\_+1 TRAJE"
+      - "\_+1 KOSTUM"
+      - "\_+1 \u041A\u041E\u0421\u0422\u042E\u041C"
+      - "\_+1 \u0E04\u0E48\u0E32\u0E43\u0E0A\u0E49\u0E08\u0E48\u0E32\u0E22"
+      - "\_+1 \u0627\u0644\u062C\u0644\u062F"
+      - "\_+1 KOST\xDCM"
+      - "\_+1\u76AE\u80A4"
+      - "\_+1\u8CBB\u7528"
+      - "\_+1 PIEL"
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: +50 HEALTH POINT
+      TermType: 0
+      Description: 
+      Languages:
+      - ' +50 HEALTH POINT'
+      - " H\u1ED2I 50% M\xC1U"
+      - "\_\uC7AC\uC0AC\uC6A9 \uB300\uAE30 \uC2DC\uAC04 : 50 % \uD608\uC561"
+      - "\_\u30AF\u30FC\u30EB\u30C0\u30A6\u30F350\uFF05\u30D6\u30E9\u30C3\u30C9"
+      - "\_COOLDOWN 50% BLOOD"
+      - "\_ARREFECIMENTO 50% SANGUE"
+      - "\_COOLDOWN 50% DARAH"
+      - "\_COOLDOWN 50% \u041A\u0420\u041E\u0412\u042C"
+      - "\_\u0E04\u0E39\u0E25\u0E14\u0E32\u0E27\u0E19\u0E4C 50% \u0E40\u0E25\u0E37\u0E2D\u0E14"
+      - "\_+50 \u0646\u0642\u0637\u0629 \u0635\u062D\u064A\u0629"
+      - "\_COOLDOWN 50% BLUT"
+      - "\_+50\u751F\u547D\u70B9"
+      - "\_\u51B7\u537B50\uFF05\u8840\u6DB2"
+      - "\_+50 PUNTO DE SALUD"
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: +1 SHIELD
+      TermType: 0
+      Description: 
+      Languages:
+      - ' +1 SHIELD'
+      - " +1 KHI\xCAN"
+      - "\_\uBCF4\uC0C1 +1"
+      - "\_+1  SHIELD"
+      - "\_+1 \u0930\u093F\u0935\u0949\u0930\u094D\u0921"
+      - "\_+1 RECOMPENSA"
+      - "\_+1 HADIAH"
+      - "\_+1 \u0432\u043E\u0437\u043D\u0430\u0433\u0440\u0430\u0436\u0434\u0435\u043D\u0438\u0435"
+      - "\_+1 SHIELD"
+      - "\_+1 SHIELD"
+      - "\_+1 BELOHNUNG"
+      - "\_+1\u76FE\u724C"
+      - "\_+1\u734E\u8CDE"
+      - "\_+1 ESCUDO"
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: +1 WEAPON
+      TermType: 0
+      Description: 
+      Languages:
+      - ' +1 WEAPON'
+      - " +1 V\u0168 KH\xCD"
+      - "\_\uBB34\uAE30 +1"
+      - "\_+1\u6B66\u5668"
+      - "\_+1 \u0939\u0925\u093F\u092F\u093E\u0930"
+      - "\_+1 ARMAS"
+      - "\_+1 SENJATA"
+      - "\_+1 \u041E\u0420\u0423\u0416\u0418\u0415"
+      - "\_+1 \u0E2D\u0E32\u0E27\u0E38\u0E18"
+      - ' +1 WEAPON'
+      - "\_+1 WAFFEN"
+      - "\_+1\u6B66\u5668"
+      - "\_+1\u6B66\u5668"
+      - "\_+1 ARMA"
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: LUCKY GIFT
+      TermType: 0
+      Description: 
+      Languages:
+      - LUCKY GIFT
+      - "QU\xC0 MAY M\u1EAEN"
+      - "\uD589\uC6B4\uC758 \uC120\uBB3C"
+      - "\u30E9\u30C3\u30AD\u30FC\u30AE\u30D5\u30C8"
+      - "\u0932\u094D\u092F\u0942\u0915 GIFs"
+      - PRESENTES DA SORTE
+      - HADIAH KEBERUNTUNGAN
+      - "\u0423\u0414\u0410\u0427\u0418 \u041F\u041E\u0414\u0410\u0420\u041A\u0418"
+      - "\u0E02\u0E2D\u0E07\u0E02\u0E27\u0E31\u0E0D\u0E42\u0E0A\u0E04"
+      - "\u0647\u062F\u064A\u0629 \u0645\u062D\u0638\u0648\u0638\u0629"
+      - OFFEN
+      - "\u5F00\u95E8"
+      - "\u958B\u9580"
+      - ABIERTO
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: OPEN
+      TermType: 0
+      Description: 
+      Languages:
+      - OPEN
+      - "M\u1EDE"
+      - "\uC5F4\uAE30"
+      - "\u958B\u304F"
+      - "\u0909\u0926\u094D\u0918\u093E\u091F\u0928"
+      - ABRIR
+      - BUKA
+      - "\u041E\u0422\u041A\u0420\u042B\u0422\u0418\u0415"
+      - "\u0E40\u0E1B\u0E34\u0E14"
+      - "\u0627\u0641\u062A\u062D"
+      - OFFEN
+      - "\u5F00\u95E8"
+      - "\u958B\u9580"
+      - ABIERTO
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: +1 CARD
+      TermType: 0
+      Description: 
+      Languages:
+      - ' +1 CARD'
+      - " +1 TH\u1EBA"
+      - "\_+1 \uCE74\uB4DC"
+      - "\_+1 CARD"
+      - "\_+1 \u0915\u093E\u0930\u094D\u0921"
+      - "\_+1 CART\xC3O"
+      - "\_+1 KARTU"
+      - "\_+1 \u041A\u0410\u0420\u0422\u0410"
+      - "\_+1 \u0E01\u0E32\u0E23\u0E4C\u0E14"
+      - "\_+1 \u0628\u0637\u0627\u0642\u0629"
+      - "\_+1 KARTE"
+      - "\_+1\u5361"
+      - "\_+1\u5361"
+      - "\_+1 TARJETA"
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: NOT ENOUGH GEM
+      TermType: 0
+      Description: 
+      Languages:
+      - NOT ENOUGH GEM
+      - "KH\xD4NG \u0110\u1EE6 GEM"
+      - "\uCDA9\uBD84\uD558\uC9C0 \uC54A\uC740 \uB2E4\uC774\uC544\uBAAC\uB4DC"
+      - "\u30C0\u30A4\u30E4\u30E2\u30F3\u30C9\u304C\u8DB3\u308A\u306A\u3044"
+      - "\u092A\u0930\u094D\u092F\u093E\u092A\u094D\u0924 \u0939\u0940\u0930\u093E
+        \u0928\u0939\u0940\u0902 \u0939\u0948"
+      - "N\xC3O DIAMANTE BASTANTE"
+      - BUKAN CUKUP DIAMOND
+      - "\u041D\u0415 \u0414\u041E\u0421\u0422\u0410\u0422\u041E\u0427\u041D\u041E
+        \u0411\u0420\u0418\u041B\u041B\u0418\u0410\u041D\u0422\u0410"
+      - "\u0E44\u0E21\u0E48\u0E40\u0E1E\u0E35\u0E22\u0E07\u0E1E\u0E2D DIAMOND"
+      - "\u0644\u0627 \u064A\u0643\u0641\u064A \u0627\u0644\u0645\u0627\u0633"
+      - NICHT GENUG DIAMANT
+      - "\u94BB\u77F3\u4E0D\u591F"
+      - "\u947D\u77F3\u4E0D\u5920"
+      - NO SUFICIENTE GEMA
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: NOT ENOUGH STAR
+      TermType: 0
+      Description: 
+      Languages:
+      - NOT ENOUGH STAR
+      - "KH\xD4NG \u0110\u1EE6 SAO"
+      - "\uCDA9\uBD84\uD558\uC9C0 \uC54A\uC740 \uBCC4"
+      - "\u30B9\u30BF\u30FC\u304C\u8DB3\u308A\u307E\u305B\u3093"
+      - "\u092A\u0930\u094D\u092F\u093E\u092A\u094D\u0924 \u0938\u094D\u091F\u093E\u0930
+        \u0928\u0939\u0940\u0902"
+      - "ESTRELA N\xC3O SUFICIENTE"
+      - BUKAN CUKUP BINTANG
+      - "\u041D\u0415 \u0414\u041E\u0421\u0422\u0410\u0422\u041E\u0427\u041D\u041E
+        \u0417\u0412\u0415\u0417\u0414\u042B"
+      - "\u0E44\u0E21\u0E48\u0E40\u0E1E\u0E35\u0E22\u0E07\u0E1E\u0E2D\u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E14\u0E32\u0E27"
+      - "\u0644\u0627 \u064A\u0643\u0641\u064A \u0627\u0644\u0646\u062C\u0648\u0645"
+      - NICHT GENUG STERN
+      - "\u660E\u661F\u4E0D\u591F"
+      - "\u660E\u661F\u4E0D\u5920"
+      - NO ES SUFICIENTE ESTRELLA
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: OK
+      TermType: 0
+      Description: 
+      Languages:
+      - OK
+      - "\u0110\u1ED2NG \xDD"
+      - "\uC2B9\uC778"
+      - "\u30AA\u30FC\u30B1\u30FC"
+      - "\u0936\u093E\u092C\u093E\u0936\u0940"
+      - "Est\xE1 bem"
+      - baik
+      - OK
+      - "\u0E15\u0E01\u0E25\u0E07"
+      - "\u062D\u0633\u0646\u0627"
+      - in Ordnung
+      - "\u597D"
+      - "\u597D"
+      - Okay
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: REWARD
+      TermType: 0
+      Description: 
+      Languages:
+      - REWARD
+      - "TH\u01AF\u1EDENG"
+      - "\uBCF4\uC0C1"
+      - "\u8912\u8CDE"
+      - "\u0907\u0928\u093E\u092E"
+      - RECOMPENSA
+      - PENGHARGAAN
+      - "\u041D\u0410\u0413\u0420\u0410\u0414\u0410"
+      - "\u0E23\u0E32\u0E07\u0E27\u0E31\u0E25"
+      - "\u062C\u0627\u0626\u0632\u0629 \u0627\u0648 \u0645\u0643\u0627\u0641\u0627\u0629"
+      - BELOHNUNG
+      - "\u5956\u52B1"
+      - "\u734E\u52F5"
+      - RECOMPENSA
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: Excellent !!!
+      TermType: 0
+      Description: 
+      Languages:
+      - Excellent !!!
+      - "XU\u1EA4T S\u1EAEC!!!"
+      - "\uD6CC\uB96D\uD569\uB2C8\uB2E4 !!!"
+      - "\u7D20\u6674\u3089\u3057\u3044!!!"
+      - "\u092C\u0939\u0941\u0924 \u092C\u0922\u093C\u093F\u092F\u093E !!!"
+      - Excelente !!!
+      - Luar Biasa !!!
+      - "\u041E\u0442\u043B\u0438\u0447\u043D\u043E !!!"
+      - "\u0E22\u0E2D\u0E14\u0E40\u0E22\u0E35\u0E48\u0E22\u0E21 !!!"
+      - "\u0645\u0645\u062A\u0627\u0632 !!!"
+      - Ausgezeichnet !!!
+      - "\u5F88\u68D2!!!"
+      - "\u5F88\u68D2!!!"
+      - Excelente !!!
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: You were rewarded
+      TermType: 0
+      Description: 
+      Languages:
+      - You were rewarded
+      - "B\u1EA1n \u0111\u01B0\u1EE3c th\u01B0\u1EDFng"
+      - "\uB2F9\uC2E0\uC740 \uBCF4\uC0C1\uB429\uB2C8\uB2E4"
+      - "\u3042\u306A\u305F\u306F\u5831\u308F\u308C\u308B"
+      - "\u0906\u092A \u092A\u0941\u0928: \u092A\u094D\u0930\u0938\u094D\u0924\u0941\u0924
+        \u0939\u0948\u0902"
+      - "VOC\xCA \xC9 RECOMPENSADO"
+      - ANDA DIHADIAH
+      - "\u0412\u042B \u041D\u0410\u0413\u0420\u0410\u0414\u042B"
+      - "\u0E04\u0E38\u0E13\u0E44\u0E14\u0E49\u0E23\u0E31\u0E1A\u0E23\u0E32\u0E07\u0E27\u0E31\u0E25"
+      - "\u062A\u0645\u062A \u0645\u0643\u0627\u0641\u0623\u062A\u0643"
+      - Sie werden belohnt
+      - "\u60A8\u53D7\u5230\u5956\u52B1"
+      - "\u60A8\u53D7\u5230\u734E\u52F5"
+      - Eres recompensado
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    - Term: GAME OVER
+      TermType: 0
+      Description: 
+      Languages:
+      - GAME OVER
+      - "TH\u1EA4T B\u1EA0I"
+      - "\uAC8C\uC784 \uC624\uBC84"
+      - "\u30B2\u30FC\u30E0\u30AA\u30FC\u30D0\u30FC"
+      - "\u0916\u0947\u0932 \u0916\u0924\u094D\u092E"
+      - JUEGO TERMINADO
+      - PERMAINAN TELAH BERAKHIR
+      - "\u0418\u0413\u0420\u0410 \u0417\u0410\u041A\u041E\u041D\u0427\u0415\u041D\u0410"
+      - "\u0E08\u0E1A\u0E40\u0E01\u0E21"
+      - "\u0627\u0646\u062A\u0647\u062A \u0627\u0644\u0644\u0639\u0628\u0629"
+      - SPIEL IST AUS
+      - "\u6E38\u620F\u7ED3\u675F"
+      - "\u904A\u6232\u7D50\u675F"
+      - JUEGO TERMINADO
+      Flags: 0000000000000000000000000000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: English
+      Code: en
+      Flags: 0
+    - Name: Vietnamese
+      Code: vi
+      Flags: 0
+    - Name: Korean
+      Code: ko
+      Flags: 0
+    - Name: Japanese
+      Code: ja
+      Flags: 0
+    - Name: Hindi
+      Code: hi
+      Flags: 0
+    - Name: Portuguese (Brazil)
+      Code: pt-BR
+      Flags: 0
+    - Name: Indonesian
+      Code: id
+      Flags: 0
+    - Name: Russian
+      Code: ru
+      Flags: 0
+    - Name: Thai
+      Code: th
+      Flags: 0
+    - Name: Arabic (Egypt)
+      Code: ar-EG
+      Flags: 0
+    - Name: German
+      Code: de
+      Flags: 0
+    - Name: Chinese
+      Code: zh
+      Flags: 0
+    - Name: Chinese (Taiwan)
+      Code: zh-TW
+      Flags: 0
+    - Name: Spanish
+      Code: es
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 1
+    Google_WebServiceURL: 
+    Google_SpreadsheetKey: teVYmvqeNTF8ZkQhQ21a0Gw
+    Google_SpreadsheetName: 
+    Google_LastUpdatedVersion: 
+    Google_Password: change_this
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateDelay: 5
+    Assets:
+    - {fileID: 12800000, guid: 4275131b0dd1c234d837c39beb8a72e8, type: 3}
+    Spreadsheet_LocalFileName: 
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1
+  version: 1
+  NeverDestroy: 0
+  UserAgreesToHaveItOnTheScene: 0
+  UserAgreesToHaveItInsideThePluginsFolder: 0
+  GoogleLiveSyncIsUptoDate: 1
+  Assets: []
+  Google_WebServiceURL: 
+  Google_SpreadsheetKey: teVYmvqeNTF8ZkQhQ21a0Gw
+  Google_SpreadsheetName: 
+  Google_LastUpdatedVersion: 
+  GoogleUpdateFrequency: 3
+  GoogleUpdateDelay: 5
+  mLanguages: []
+  IgnoreDeviceLanguage: 0
+  _AllowUnloadingLanguages: 1
+  mTerms: []
+  CaseInsensitiveTerms: 0
+  OnMissingTranslation: 1
+  mTerm_AppName: 
+  Spreadsheet_LocalFileName: C:/Data/Frank/Unity Projects/Unity Plugins/Localization.csv
+  Spreadsheet_LocalCSVSeparator: ','
+  Spreadsheet_LocalCSVEncoding: Unicode (UTF-8)
+  Spreadsheet_SpecializationAsRows: 1
+  Google_Password: change_this
+  GoogleInEditorCheckFrequency: 2
+--- !u!114 &114655249495093156
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1909658389591426}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f51c251ec0e258149a0d2e595826d9df, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  countAdmob: 0
+  videoShowing: 0
+  bStarted: 0
+  lbAndroid: {fileID: 114302008672103638}
+  isLeaderboardLogin: 0
+  removeADS: 0
+--- !u!114 &114732372153909366
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1909658389591426}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 479917dcbcbc4474d858fd5a1289bbd0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114753580959198204
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1909658389591426}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 112998890, guid: 325c5b2a7434372429c2ca9d61dba58e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _guid: cc9656c3-d147-4543-ad7f-e40d8137b989
+--- !u!114 &114786921317410566
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1240100768046468}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd334b6dd8aa07249b6318edd2ef9dc1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idProduct:
+  - nadstickmanonewheel1
+  - nadstickmanonewheel2
+  - nadstickmanonewheel3
+  - nadstickmanonewheel4
+  - nadstickmanonewheel5
+  - nadstickmanonewheel6
+  - nadstickmanonewheelpack1
+  - nadstickmanonewheelpack2
+--- !u!114 &114918741199438866
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1909658389591426}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d57a501834d47f649b693c3aaf5984ad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

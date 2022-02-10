@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "415614821921-jh5oghmkfguf3g0l30ndn6ls9t27i8fm.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAcGpr_AoCuSDA62tZih-z8iRifyi84YQ"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:415614821921:ios:a9bbbee29699034d9d2560", 
+        "android_client_info": {
+          "package_name": "stickman.ragdoll.happy.wheel"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "mr-stick-ios.appspot.com", 
+    "project_id": "mr-stick-ios", 
+    "firebase_url": "https://mr-stick-ios.firebaseio.com", 
+    "project_number": "415614821921"
+  }
+}

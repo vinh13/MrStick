@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "803541008738",
+    "firebase_url": "https://mr-stick-ad.firebaseio.com",
+    "project_id": "mr-stick-ad",
+    "storage_bucket": "mr-stick-ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803541008738:android:fb93e2c36b363183",
+        "android_client_info": {
+          "package_name": "stickman.ragdoll.happy.wheel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803541008738-dbd0c02itmkfaaul261gdaphni3299o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhmlc0oJGnCO868OXpt0YU7suLeWir4dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803541008738-dbd0c02itmkfaaul261gdaphni3299o8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5565540486604773~7444082463"
+    }
+  ],
+  "configuration_version": "1"
+}

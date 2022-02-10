@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/1Scenes/Preload.unity
+    guid: f7daacd1b08c5ac40b604cb22b3781a6
+  - enabled: 1
+    path: Assets/1Scenes/Main.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/1Scenes/Home.unity
+    guid: 346a29230df3bf54e9f1689db11b8a76
+  - enabled: 1
+    path: Assets/1Scenes/Level.unity
+    guid: f6d60c9a63c66474180ad965c2580c08
+  - enabled: 1
+    path: Assets/1Scenes/InApp.unity
+    guid: f92376d9108bcdf4caf1934d2538b7bc
+  - enabled: 1
+    path: Assets/1Scenes/DailyReward.unity
+    guid: 450c7f442f97e2643b147fa80ad6ab9b
+  - enabled: 1
+    path: Assets/1Scenes/Player.unity
+    guid: a66d7757f5da17648b2534e482510c1c
+  - enabled: 1
+    path: Assets/1Scenes/PlayerPreview.unity
+    guid: 2ae096933fee7cc41be48c89318b781c
+  - enabled: 1
+    path: Assets/1Scenes/VideoReward.unity
+    guid: 405bea2fe58167143867d08f26755d2a
+  - enabled: 1
+    path: Assets/1Scenes/Achievement.unity
+    guid: b96dfda20cbfafc4fa7ab683f96790b9
+  - enabled: 1
+    path: Assets/1Scenes/FlashSale.unity
+    guid: 671506015f4dad941af94b66718b2cc7
+  - enabled: 1
+    path: Assets/1Scenes/StartOffer.unity
+    guid: 5a71a6e5a83b5f84c9567b0153c47ad5
+  - enabled: 1
+    path: Assets/1Scenes/Chest.unity
+    guid: 41e3b4f68889bcd4f9614da7763db2ab
+  m_configObjects: {}

@@ -1,0 +1,200 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63fe5bba765435f419d26a1ed7f9bb53, type: 3}
+  m_Name: level126
+  m_EditorClassIdentifier: 
+  path: D:\DataExcel\OnWheel\Levels\
+  timeNextEnemy: 60
+  rangeX: 8
+  numberPosP: 1
+  numberEnemyInMap: 1
+  maxEnemyInMap: 1
+  enemiesData:
+  - health: 1525
+    aiLevel: 1
+    damageBase: 122
+    speed: 1
+    enemyType: 0
+    IDSkin: 1
+  - health: 1607
+    aiLevel: 1
+    damageBase: 123
+    speed: 1
+    enemyType: 0
+    IDSkin: 0
+  - health: 1688
+    aiLevel: 2
+    damageBase: 125
+    speed: 1
+    enemyType: 0
+    IDSkin: 2
+  - health: 1770
+    aiLevel: 2
+    damageBase: 126
+    speed: 1
+    enemyType: 0
+    IDSkin: 0
+  - health: 1851
+    aiLevel: 2
+    damageBase: 128
+    speed: 1
+    enemyType: 0
+    IDSkin: 3
+  - health: 1933
+    aiLevel: 2
+    damageBase: 129
+    speed: 1
+    enemyType: 0
+    IDSkin: 0
+  - health: 2014
+    aiLevel: 2
+    damageBase: 130
+    speed: 1
+    enemyType: 0
+    IDSkin: 5
+  - health: 2096
+    aiLevel: 2
+    damageBase: 132
+    speed: 1
+    enemyType: 0
+    IDSkin: 0
+  - health: 2177
+    aiLevel: 2
+    damageBase: 133
+    speed: 1
+    enemyType: 0
+    IDSkin: 7
+  - health: 2259
+    aiLevel: 2
+    damageBase: 135
+    speed: 1
+    enemyType: 0
+    IDSkin: 0
+  - health: 2341
+    aiLevel: 2
+    damageBase: 136
+    speed: 1
+    enemyType: 0
+    IDSkin: 0
+  - health: 2422
+    aiLevel: 2
+    damageBase: 138
+    speed: 1
+    enemyType: 0
+    IDSkin: 4
+  - health: 2504
+    aiLevel: 3
+    damageBase: 139
+    speed: 1
+    enemyType: 0
+    IDSkin: 0
+  - health: 2585
+    aiLevel: 3
+    damageBase: 140
+    speed: 1
+    enemyType: 0
+    IDSkin: 6
+  - health: 2667
+    aiLevel: 3
+    damageBase: 142
+    speed: 1
+    enemyType: 0
+    IDSkin: 0
+  - health: 2748
+    aiLevel: 3
+    damageBase: 143
+    speed: 1
+    enemyType: 0
+    IDSkin: 0
+  - health: 2830
+    aiLevel: 3
+    damageBase: 145
+    speed: 1
+    enemyType: 0
+    IDSkin: 3
+  - health: 2911
+    aiLevel: 3
+    damageBase: 146
+    speed: 1
+    enemyType: 0
+    IDSkin: 0
+  - health: 2993
+    aiLevel: 3
+    damageBase: 147
+    speed: 1
+    enemyType: 0
+    IDSkin: 0
+  - health: 3074
+    aiLevel: 3
+    damageBase: 149
+    speed: 1
+    enemyType: 0
+    IDSkin: 1
+  - health: 3156
+    aiLevel: 3
+    damageBase: 150
+    speed: 1
+    enemyType: 0
+    IDSkin: 0
+  - health: 3238
+    aiLevel: 3
+    damageBase: 152
+    speed: 1
+    enemyType: 0
+    IDSkin: 2
+  - health: 3319
+    aiLevel: 3
+    damageBase: 153
+    speed: 1
+    enemyType: 0
+    IDSkin: 0
+  - health: 3401
+    aiLevel: 3
+    damageBase: 155
+    speed: 1
+    enemyType: 0
+    IDSkin: 0
+  - health: 3482
+    aiLevel: 4
+    damageBase: 156
+    speed: 1
+    enemyType: 0
+    IDSkin: 5
+  - health: 3564
+    aiLevel: 4
+    damageBase: 157
+    speed: 1
+    enemyType: 0
+    IDSkin: 0
+  - health: 3645
+    aiLevel: 4
+    damageBase: 159
+    speed: 1
+    enemyType: 0
+    IDSkin: 3
+  - health: 3727
+    aiLevel: 4
+    damageBase: 160
+    speed: 1
+    enemyType: 0
+    IDSkin: 0
+  - health: 3890
+    aiLevel: 4
+    damageBase: 163
+    speed: 1
+    enemyType: 0
+    IDSkin: 0
+  - health: 9790
+    aiLevel: 4
+    damageBase: 164
+    speed: 1
+    enemyType: 1
+    IDSkin: 1

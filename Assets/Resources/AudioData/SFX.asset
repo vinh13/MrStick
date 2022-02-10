@@ -1,0 +1,308 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe4b4371f08cc604099360cc7d18954f, type: 3}
+  m_Name: SFX
+  m_EditorClassIdentifier: 
+  Sounds:
+  - sName: dead1
+    clip: {fileID: 8300000, guid: 3582b0ae8e8c971419117fad470dc460, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: dead2
+    clip: {fileID: 8300000, guid: d6140475fd60731488e7c818945e2093, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: dead3
+    clip: {fileID: 8300000, guid: 774b704344cedc14db14dbbb6fc3293c, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: dead4
+    clip: {fileID: 8300000, guid: 5a07887bb5f27ab43a78e5a0c9bad157, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: dead5
+    clip: {fileID: 8300000, guid: ea411f7687166c74b9f6a4fdb4a72a8e, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: hurt1
+    clip: {fileID: 8300000, guid: 89a09a985d50b8348bbd1bd2e858e610, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: hurt2
+    clip: {fileID: 8300000, guid: 343800bb98ea9ce49b1fc521dbc3d96c, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: hurt3
+    clip: {fileID: 8300000, guid: e6c4bba1fa0e7e94696ae9ed9783f746, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: hurt4
+    clip: {fileID: 8300000, guid: 017f13cc6c77f7a4cb904dba1bb9f17c, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: blood1
+    clip: {fileID: 8300000, guid: ed943f12ef24daf409ef5dc4fde060f6, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: blood2
+    clip: {fileID: 8300000, guid: bf2391258d0263b4b8182f4320d750cd, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: gunmachine
+    clip: {fileID: 8300000, guid: b4f123a473b395f47ae770239007e3c8, type: 3}
+    fVolume: 0.4
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: saw1
+    clip: {fileID: 8300000, guid: d2cbe6fa1af60db418f403326bbb5517, type: 3}
+    fVolume: 0.9
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: saw2
+    clip: {fileID: 8300000, guid: d2cbe6fa1af60db418f403326bbb5517, type: 3}
+    fVolume: 0.9
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: bow
+    clip: {fileID: 8300000, guid: cea37f5808a2848418482b868cd97f78, type: 3}
+    fVolume: 0.9
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: rocket1
+    clip: {fileID: 8300000, guid: d25563ce6ea61e5438a7457c50ec17bc, type: 3}
+    fVolume: 0.9
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: rocket2
+    clip: {fileID: 8300000, guid: d25563ce6ea61e5438a7457c50ec17bc, type: 3}
+    fVolume: 0.5
+    fPitch: 2
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: explosion1
+    clip: {fileID: 8300000, guid: d71a58bfa2d4ceb45b67b1387677bed3, type: 3}
+    fVolume: 0.5
+    fPitch: 1.1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: explosion2
+    clip: {fileID: 8300000, guid: d71a58bfa2d4ceb45b67b1387677bed3, type: 3}
+    fVolume: 0.5
+    fPitch: 1.1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: pickwp1
+    clip: {fileID: 8300000, guid: 643d9e09907eced449c9956a41de08b9, type: 3}
+    fVolume: 0.5
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: pickwp2
+    clip: {fileID: 8300000, guid: 60c10df45c37c8c48beef48370a09b5f, type: 3}
+    fVolume: 0.5
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: pickwp3
+    clip: {fileID: 8300000, guid: e83784e33df42f349952a6273cf4f188, type: 3}
+    fVolume: 0.5
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: firstblood
+    clip: {fileID: 8300000, guid: aafeeb6c072e906438abe9c928e65c55, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: killingspree
+    clip: {fileID: 8300000, guid: 5193bd6a7a08a39409b27d07bf0fe050, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: dominating
+    clip: {fileID: 8300000, guid: 71d336ad46b6aa3458339587c6a72045, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: unstoppable
+    clip: {fileID: 8300000, guid: 906c3a913a599314683b7ea2be7d3119, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: godlike
+    clip: {fileID: 8300000, guid: ebbaf17dd03c233449c309535a5a3625, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: legendary
+    clip: {fileID: 8300000, guid: 37e49d7cb455ec14eacf41a9730e21d9, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: legendarykill
+    clip: {fileID: 8300000, guid: f4bc11cf0604f974182d141c8b3ef785, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: victory
+    clip: {fileID: 8300000, guid: bcbd1128368bcd54883bf61d66779b98, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: defeat
+    clip: {fileID: 8300000, guid: 4434d57353f520b489223680f8afe652, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: 321go
+    clip: {fileID: 8300000, guid: e17bc533ec20fe64c88cab014763519d, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: bonebreak1
+    clip: {fileID: 8300000, guid: 890039cc3afae1a4d98327752589afcb, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: bonebreak2
+    clip: {fileID: 8300000, guid: 82034c1573bbf034380609d63fb4a99c, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: bonebreak3
+    clip: {fileID: 8300000, guid: 6725d5cb460212a4bb283bc83bd44a71, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: click
+    clip: {fileID: 8300000, guid: c799ec1644a1cb94897da61072ed6f69, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: addgold
+    clip: {fileID: 8300000, guid: d20730b97a75d374f84aa15c628646d4, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: popup_open
+    clip: {fileID: 8300000, guid: 19a7132b3a58a0c4d990f973e496fcb1, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: star
+    clip: {fileID: 8300000, guid: 2ef35cfee63cf334daca0193b555b06b, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: unlock
+    clip: {fileID: 8300000, guid: 84ec710ff52e49142921ee2877f5ef32, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: double
+    clip: {fileID: 8300000, guid: 62a5a12e82e685c4e9566dde167e4a9d, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: tripple
+    clip: {fileID: 8300000, guid: 1efa779818604af4aae60095ec9fbc4f, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: quadra
+    clip: {fileID: 8300000, guid: 019dcdb247ee0414b868a582e1f8e99c, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: penta
+    clip: {fileID: 8300000, guid: cbafe1d2227b7c54e85a82f39b83f113, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: hexa
+    clip: {fileID: 8300000, guid: 033e5637ef5fd6047bd1de280230a4a5, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: health
+    clip: {fileID: 8300000, guid: d851b636410887b4d860a12e1b206ad0, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: shield
+    clip: {fileID: 8300000, guid: cfb46ee340bfd7644867a3f3682043c6, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: warning
+    clip: {fileID: 8300000, guid: 6ab5699b266bbaf41b7b3e04bd0bbb99, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 0
+    audioSource: {fileID: 0}
+  - sName: nitro
+    clip: {fileID: 8300000, guid: c4ea4d3811ef5c146b3a74fd778d22d2, type: 3}
+    fVolume: 1
+    fPitch: 1
+    loop: 1
+    audioSource: {fileID: 0}
